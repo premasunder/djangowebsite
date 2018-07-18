@@ -6,3 +6,6 @@ def index(request):
 
 def contact(request):
     return render(request, 'personal/basic.html',{'content':['If you would like to contact me, please email me.','myemail@gmail.com']})
+
+def menu(request):
+    return render(request, 'personal/menu.html')
