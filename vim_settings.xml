@@ -18,6 +18,9 @@
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/views.py" timestamp="1531336383335">
         <mark key="[" line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/djangowebsite/mysite/shop/views.py" timestamp="1532004922674">
+        <mark key="[" line="21" column="73" />
+      </file>
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/templates/about.html" timestamp="1531229932722">
         <mark key="[" line="3" column="55" />
       </file>
@@ -26,9 +29,6 @@
       </file>
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/myproject/templates/about.html" timestamp="1531066185769">
         <mark key="[" line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/djangowebsite/mysite/shop/models.py" timestamp="1532003223572">
-        <mark key="[" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/myproject/settings.py" timestamp="1531464052786">
         <mark key="[" line="58" column="16" />
@@ -63,8 +63,8 @@
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/blog/templates/blog/blog.html" timestamp="1531419292750">
         <mark key="[" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/djangowebsite/mysite/mysite/settings.py" timestamp="1532001881480">
-        <mark key="[" line="32" column="18" />
+      <file name="$USER_HOME$/djangowebsite/mysite/mysite/settings.py" timestamp="1532004520490">
+        <mark key="[" line="122" column="22" />
       </file>
       <file name="$USER_HOME$/djangowebsite/mysite/shop/admin.py" timestamp="1532002441816">
         <mark key="[" line="13" column="66" />
@@ -81,9 +81,12 @@
       <file name="$USER_HOME$/djangowebsite/mysite/personal/templates/personal/menu.html" timestamp="1531916792809">
         <mark key="[" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/djangowebsite/mysite/mysite/urls.py" timestamp="1532003356779">
+      <file name="$USER_HOME$/djangowebsite/mysite/mysite/urls.py" timestamp="1532004570526">
         <mark key="'" line="8" column="4" />
-        <mark key="[" line="9" column="22" />
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/djangowebsite/mysite/shop/templates/shop/product/list.html" timestamp="1532005769762">
+        <mark key="[" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/djangowebsite/mysite/personal/templates/personal/includes/menu.html" timestamp="1531916530219">
         <mark key="[" line="4" column="14" />
@@ -91,8 +94,9 @@
       <file name="$USER_HOME$/djangowebsite/mysite/cart/views.py" timestamp="1531668175533">
         <mark key="[" line="29" column="33" />
       </file>
-      <file name="$USER_HOME$/djangowebsite/mysite/shop/templates/shop/product/base.html" timestamp="1532003617399">
-        <mark key="[" line="10" column="17" />
+      <file name="$USER_HOME$/djangowebsite/mysite/shop/templates/shop/product/base.html" timestamp="1532005866304">
+        <mark key="'" line="7" column="5" />
+        <mark key="[" line="6" column="5" />
       </file>
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/template/about.html" timestamp="1531214211733">
         <mark key="[" line="4" column="16" />
@@ -115,7 +119,7 @@
       <file name="$USER_HOME$/djangowebsite/mysite/personal/urls.py" timestamp="1532001285535">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/djangowebsite/mysite/shop/templates/shop/product/detail.html" timestamp="1531667981458">
+      <file name="$USER_HOME$/djangowebsite/mysite/shop/templates/shop/product/detail.html" timestamp="1532006089254">
         <mark key="[" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/djangowebsite/mysite/personal/views.py" timestamp="1532001263788">
@@ -138,6 +142,7 @@
       <jump line="37" column="4" filename="$USER_HOME$/djangowebsite/myvenv/myproject/myproject/urls.py" />
       <jump line="34" column="5" filename="$USER_HOME$/djangowebsite/mysite/mysite/settings.py" />
       <jump line="9" column="4" filename="$USER_HOME$/djangowebsite/mysite/mysite/urls.py" />
+      <jump line="7" column="5" filename="$USER_HOME$/djangowebsite/mysite/shop/templates/shop/product/base.html" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -150,13 +155,13 @@
         <text>b</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cmxcPg==</text>
+        <text encoding="base64">XDxsaW5rXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cmxcPg==</last-search>
+      <last-search encoding="base64">XDxsaW5rXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cmxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsaW5rXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -164,6 +169,7 @@
       <history-search>
         <entry encoding="base64">XDx3ZWJhcHBcPg==</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
+        <entry encoding="base64">XDxsaW5rXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
