@@ -83,9 +83,14 @@
         <mark key="]" line="66" column="12" />
         <mark key="." line="66" column="11" />
       </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/models.py" timestamp="1532182904550">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+      </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/auth/register.html" timestamp="1532160075799" />
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings.py" timestamp="1532167689099">
-        <mark key="[" line="125" column="66" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings.py" timestamp="1532183155567">
+        <mark key="[" line="38" column="32" />
       </file>
       <file name="/Python Console" timestamp="1531939218768">
         <mark key="[" line="0" column="0" />
@@ -182,11 +187,12 @@
         <text>rogramming, Teaching, Entrepreneurship</text>
       </register>
       <register name="1" type="4">
-        <text>not &quot;gmail.com&quot; in email:
-            raise forms.ValidationError(&quot;Email has to be gmail.com&quot;)
-        return email</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>not &quot;gmail.com&quot; in email:
             raise forms.ValidationError(&quot;Email has to be gmail.com&quot;)
         return email</text>
