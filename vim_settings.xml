@@ -146,11 +146,12 @@
       <file name="$USER_HOME$/djangowebsite/mysite/personal/templates/personal/menu.html" timestamp="1531916792809">
         <mark key="[" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/urls.py" timestamp="1532167748639">
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="34" column="31" />
-        <mark key="^" line="34" column="31" />
-        <mark key="." line="34" column="31" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/urls.py" timestamp="1532187510974">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="38" column="31" />
+        <mark key="^" line="38" column="31" />
+        <mark key="." line="38" column="31" />
       </file>
       <file name="$USER_HOME$/djangowebsite/mysite/mysite/urls.py" timestamp="1532006734129">
         <mark key="'" line="8" column="4" />
@@ -173,6 +174,9 @@
         <mark key="'" line="15" column="22" />
         <mark key="[" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" timestamp="1532188251153">
+        <mark key="[" line="23" column="44" />
+      </file>
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/templates/newtemplate/header.html" timestamp="1531226240191">
         <mark key="[" line="4" column="27" />
       </file>
@@ -184,6 +188,8 @@
       <jump line="7" column="5" filename="$USER_HOME$/djangowebsite/mysite/shop/templates/shop/product/base.html" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/home_page.html" />
       <jump line="15" column="22" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/home_page.html" />
+      <jump line="32" column="37" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/urls.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/urls.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
