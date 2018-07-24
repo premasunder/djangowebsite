@@ -101,12 +101,14 @@
         <mark key="." line="49" column="36" />
         <mark key="^" line="49" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/navbar.html" timestamp="1532424608803" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/navbar.html" timestamp="1532425637306">
+        <mark key="[" line="22" column="10" />
+      </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/auth/register.html" timestamp="1532160075799" />
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings.py" timestamp="1532183155567">
         <mark key="[" line="38" column="32" />
       </file>
-      <file name="/Python Console" timestamp="1531939218768">
+      <file name="/Python Console" timestamp="1532425651111">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/djangowebsite/mysite/personal/templates/personal/includes/htmlsnippet.html" timestamp="1531911816536">
