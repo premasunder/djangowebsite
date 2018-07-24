@@ -18,8 +18,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/contact/view.html" timestamp="1532419147312">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/detail.html" timestamp="1532414460875">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/detail.html" timestamp="1532442223090">
+        <mark key="[" line="6" column="46" />
       </file>
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/templates/blog.html" timestamp="1531419675141">
         <mark key="[" line="3" column="55" />
@@ -94,9 +94,8 @@
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/myproject/urls.py" timestamp="1531463751961">
         <mark key="[" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/models.py" timestamp="1532440322499">
-        <mark key="'" line="69" column="47" />
-        <mark key="[" line="5" column="55" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/models.py" timestamp="1532442131087">
+        <mark key="[" line="54" column="47" />
         <mark key="]" line="49" column="36" />
         <mark key="." line="49" column="36" />
         <mark key="^" line="49" column="36" />
@@ -138,9 +137,9 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/js.html" timestamp="1532413515223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/snippets/card.html" timestamp="1532422263471">
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/snippets/card.html" timestamp="1532441405821">
         <mark key="'" line="2" column="77" />
-        <mark key="[" line="8" column="38" />
+        <mark key="[" line="6" column="81" />
         <mark key="]" line="8" column="61" />
         <mark key="." line="8" column="29" />
       </file>
