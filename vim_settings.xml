@@ -27,7 +27,6 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base.html" timestamp="1532525524121">
         <mark key="[" line="13" column="64" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/utils.py" timestamp="1532341187351" />
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/templates/basic.html" timestamp="1531334141185">
         <mark key="[" line="2" column="18" />
       </file>
@@ -84,6 +83,12 @@
       </file>
       <file name="$USER_HOME$/djangowebsite/mysite/shop/templates/shop/product/detail.html" timestamp="1532006089254">
         <mark key="[" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/search/urls.py" timestamp="1532536683493">
+        <mark key="[" line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/djangowebsite/mysite/personal/views.py" timestamp="1532001263788">
+        <mark key="[" line="8" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/Environments/new/newproject/newproject/newproject/settings.py" timestamp="1530861771952">
         <mark key="[" line="38" column="32" />
@@ -186,6 +191,9 @@
         <mark key="'" line="8" column="4" />
         <mark key="[" line="9" column="63" />
       </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/search/views.py" timestamp="1532536877895">
+        <mark key="[" line="6" column="12" />
+      </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/featured-detail.html" timestamp="1532333574617">
         <mark key="[" line="2" column="0" />
       </file>
@@ -208,7 +216,7 @@
         <mark key="'" line="40" column="22" />
         <mark key="[" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" timestamp="1532340578720">
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" timestamp="1532536300446">
         <mark key="'" line="32" column="4" />
         <mark key="[" line="60" column="0" />
         <mark key="]" line="61" column="4" />
