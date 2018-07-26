@@ -78,6 +78,9 @@
       <file name="README.md" timestamp="1531939028274">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/views.py" timestamp="1532605703665">
+        <mark key="[" line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/Desktop/Environments/new/newproject/newproject/newblog/urls.py" timestamp="1530862242714">
         <mark key="[" line="0" column="7" />
       </file>
@@ -114,8 +117,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/auth/register.html" timestamp="1532525954354">
         <mark key="[" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings.py" timestamp="1532602658985">
-        <mark key="[" line="42" column="12" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings.py" timestamp="1532605107437">
+        <mark key="[" line="40" column="12" />
       </file>
       <file name="/Python Console" timestamp="1532425651111">
         <mark key="[" line="0" column="0" />
@@ -125,6 +128,12 @@
       </file>
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/views.py" timestamp="1531336383335">
         <mark key="[" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/views.py" timestamp="1532606205063">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="14" column="35" />
+        <mark key="^" line="14" column="35" />
+        <mark key="." line="14" column="35" />
       </file>
       <file name="$USER_HOME$/djangowebsite/mysite/shop/views.py" timestamp="1532004922674">
         <mark key="[" line="21" column="73" />
@@ -168,6 +177,11 @@
       <file name="/Dummy.txt" timestamp="1531939167115">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/templates/carts/home.html" timestamp="1532605044469">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+      </file>
       <file name="$USER_HOME$/djangowebsite/mysite/personal/templates/personal/header.html" timestamp="1532001404488">
         <mark key="[" line="32" column="50" />
       </file>
@@ -180,12 +194,11 @@
       <file name="$USER_HOME$/djangowebsite/mysite/personal/templates/personal/menu.html" timestamp="1531916792809">
         <mark key="[" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/urls.py" timestamp="1532590390547">
-        <mark key="'" line="23" column="26" />
-        <mark key="[" line="42" column="58" />
-        <mark key="]" line="55" column="31" />
-        <mark key="^" line="55" column="31" />
-        <mark key="." line="55" column="31" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/urls.py" timestamp="1532605239326">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="41" column="31" />
+        <mark key="^" line="41" column="31" />
+        <mark key="." line="41" column="31" />
       </file>
       <file name="$USER_HOME$/djangowebsite/mysite/mysite/urls.py" timestamp="1532006734129">
         <mark key="'" line="8" column="4" />
@@ -235,6 +248,7 @@
       <jump line="61" column="47" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/models.py" />
       <jump line="3" column="77" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/snippets/card.html" />
       <jump line="50" column="1" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/navbar.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/templates/carts/home.html" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -243,8 +257,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgTmF2Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgTmF2Cg==</text>
+      <register name="&quot;" type="4">
+        <text>% extends &quot;base.html&quot;</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Cg==</text>
@@ -255,7 +269,7 @@
         return email</text>
       </register>
       <register name="-" type="4">
-        <text>queryset = Product.objects.all()</text>
+        <text>% extends &quot;base.html&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZcPg==</text>
