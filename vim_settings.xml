@@ -88,8 +88,8 @@
       <file name="$USER_HOME$/djangowebsite/mysite/shop/templates/shop/product/detail.html" timestamp="1532006089254">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/search/urls.py" timestamp="1532536683493">
-        <mark key="[" line="2" column="13" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/search/urls.py" timestamp="1532588211981">
+        <mark key="[" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/Environments/new/newproject/newproject/newproject/settings.py" timestamp="1530861771952">
         <mark key="[" line="38" column="32" />
@@ -100,11 +100,11 @@
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/myproject/urls.py" timestamp="1531463751961">
         <mark key="[" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/models.py" timestamp="1532442131087">
-        <mark key="[" line="54" column="47" />
-        <mark key="]" line="49" column="36" />
-        <mark key="." line="49" column="36" />
-        <mark key="^" line="49" column="36" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/models.py" timestamp="1532589312835">
+        <mark key="[" line="74" column="12" />
+        <mark key="]" line="64" column="36" />
+        <mark key="." line="64" column="36" />
+        <mark key="^" line="64" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/navbar.html" timestamp="1532543464145">
         <mark key="'" line="50" column="1" />
@@ -125,8 +125,14 @@
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/views.py" timestamp="1531336383335">
         <mark key="[" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/search/templates/search/snippets/search-form.html" timestamp="1532543616976">
-        <mark key="[" line="1" column="40" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/search/templates/search/snippets/search-form.html" timestamp="1532584276708">
+        <mark key="[" line="2" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/views.py" timestamp="1532419176687">
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="13" column="35" />
+        <mark key="^" line="13" column="35" />
+        <mark key="." line="13" column="35" />
       </file>
       <file name="$USER_HOME$/djangowebsite/mysite/shop/views.py" timestamp="1532004922674">
         <mark key="[" line="21" column="73" />
@@ -173,15 +179,15 @@
       <file name="$USER_HOME$/djangowebsite/ecommerce/ecommerce/settings.py" timestamp="1531645829043">
         <mark key="[" line="32" column="17" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/urls.py" timestamp="1532421576165">
-        <mark key="[" line="9" column="75" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/urls.py" timestamp="1532588589455">
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/djangowebsite/mysite/personal/templates/personal/menu.html" timestamp="1531916792809">
         <mark key="[" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/urls.py" timestamp="1532535296024">
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/urls.py" timestamp="1532587495181">
         <mark key="'" line="23" column="26" />
-        <mark key="[" line="43" column="37" />
+        <mark key="[" line="42" column="45" />
         <mark key="]" line="55" column="31" />
         <mark key="^" line="55" column="31" />
         <mark key="." line="55" column="31" />
@@ -190,11 +196,11 @@
         <mark key="'" line="8" column="4" />
         <mark key="[" line="9" column="63" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/search/views.py" timestamp="1532542008186">
-        <mark key="[" line="7" column="5" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/search/views.py" timestamp="1532586221343">
+        <mark key="[" line="24" column="48" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/featured-detail.html" timestamp="1532333574617">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/featured-detail.html" timestamp="1532589497172">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/blog/models.py" timestamp="1531419249955">
         <mark key="[" line="1" column="0" />
@@ -215,9 +221,9 @@
         <mark key="'" line="40" column="22" />
         <mark key="[" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" timestamp="1532536300446">
-        <mark key="'" line="32" column="4" />
-        <mark key="[" line="60" column="0" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" timestamp="1532588888553">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="28" column="5" />
         <mark key="]" line="61" column="4" />
         <mark key="." line="61" column="4" />
       </file>
