@@ -9,8 +9,8 @@
       <file name="/start_script.py" timestamp="1532245199202">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/models.py" timestamp="1532685304550">
-        <mark key="[" line="57" column="61" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/models.py" timestamp="1532698538514">
+        <mark key="[" line="35" column="50" />
       </file>
       <file name="$USER_HOME$/djangowebsite/mysite/shop/urls.py" timestamp="1532002990632">
         <mark key="[" line="7" column="88" />
@@ -21,9 +21,7 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/contact/view.html" timestamp="1532419147312">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/detail.html" timestamp="1532690544828">
-        <mark key="[" line="11" column="41" />
-      </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/detail.html" timestamp="1532697787990" />
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/search/templates/search/view.html" timestamp="1532594151693">
         <mark key="[" line="32" column="2" />
       </file>
@@ -69,8 +67,8 @@
       <file name="$USER_HOME$/djangowebsite/mysite/shop/admin.py" timestamp="1532002441816">
         <mark key="[" line="13" column="66" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/snippets/update-cart.html" timestamp="1532692075050">
-        <mark key="[" line="3" column="18" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/snippets/update-cart.html" timestamp="1532699247951">
+        <mark key="[" line="1" column="31" />
       </file>
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/templates/index.html" timestamp="1531331492929">
         <mark key="[" line="3" column="33" />
@@ -90,8 +88,8 @@
       <file name="README.md" timestamp="1531939028274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/views.py" timestamp="1532694567290">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/views.py" timestamp="1532698702757">
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Environments/new/newproject/newproject/newblog/urls.py" timestamp="1530862242714">
         <mark key="[" line="0" column="7" />
@@ -116,8 +114,8 @@
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/myproject/urls.py" timestamp="1531463751961">
         <mark key="[" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/models.py" timestamp="1532695110184">
-        <mark key="[" line="91" column="0" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/models.py" timestamp="1532695143227">
+        <mark key="[" line="91" column="12" />
         <mark key="]" line="71" column="36" />
         <mark key="." line="71" column="36" />
         <mark key="^" line="71" column="36" />
@@ -186,10 +184,8 @@
       <file name="/Dummy.txt" timestamp="1531939167115">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/templates/carts/home.html" timestamp="1532695003767">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="2" column="1" />
-        <mark key="." line="2" column="1" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/templates/carts/home.html" timestamp="1532698984517">
+        <mark key="[" line="20" column="89" />
       </file>
       <file name="$USER_HOME$/djangowebsite/mysite/personal/templates/personal/header.html" timestamp="1532001404488">
         <mark key="[" line="32" column="50" />
@@ -224,9 +220,9 @@
       <file name="$USER_HOME$/djangowebsite/mysite/personal/urls.py" timestamp="1532001285535">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" timestamp="1532683041960">
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" timestamp="1532695711183">
         <mark key="'" line="33" column="4" />
-        <mark key="[" line="7" column="63" />
+        <mark key="[" line="64" column="4" />
         <mark key="]" line="79" column="4" />
         <mark key="." line="79" column="4" />
       </file>
