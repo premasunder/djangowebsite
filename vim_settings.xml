@@ -24,8 +24,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/contact/view.html" timestamp="1532419147312">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/detail.html" timestamp="1532707730160">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/detail.html" timestamp="1532787039462">
+        <mark key="[" line="19" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/search/templates/search/view.html" timestamp="1532761311636">
         <mark key="[" line="32" column="2" />
@@ -72,8 +72,8 @@
       <file name="$USER_HOME$/djangowebsite/mysite/shop/admin.py" timestamp="1532002441816">
         <mark key="[" line="13" column="66" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/snippets/update-cart.html" timestamp="1532761818198">
-        <mark key="[" line="0" column="41" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/snippets/update-cart.html" timestamp="1532786949309">
+        <mark key="[" line="7" column="42" />
       </file>
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/templates/index.html" timestamp="1531331492929">
         <mark key="[" line="3" column="33" />
@@ -217,12 +217,7 @@
       <file name="$USER_HOME$/djangowebsite/mysite/personal/urls.py" timestamp="1532001285535">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" timestamp="1532695711183">
-        <mark key="'" line="33" column="4" />
-        <mark key="[" line="64" column="4" />
-        <mark key="]" line="79" column="4" />
-        <mark key="." line="79" column="4" />
-      </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" timestamp="1532787977275" />
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/templates/newtemplate/header.html" timestamp="1531226240191">
         <mark key="[" line="4" column="27" />
       </file>
