@@ -93,6 +93,9 @@
       <file name="README.md" timestamp="1531939028274">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/templates/accounts/login.html" timestamp="1533293058683">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/forms.py" timestamp="1532850030130">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,8 +105,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/models.py" timestamp="1532864798477">
         <mark key="[" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/views.py" timestamp="1532791895996">
-        <mark key="[" line="25" column="31" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/views.py" timestamp="1533294490728">
+        <mark key="[" line="2" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/Environments/new/newproject/newproject/newblog/urls.py" timestamp="1530862242714">
         <mark key="[" line="0" column="7" />
@@ -233,11 +236,14 @@
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/blog/models.py" timestamp="1531419249955">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/templates/carts/checkout.html" timestamp="1532792642918">
-        <mark key="[" line="6" column="23" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/templates/carts/checkout.html" timestamp="1533294163944">
+        <mark key="[" line="8" column="70" />
       </file>
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/urls.py" timestamp="1531463925602">
         <mark key="[" line="9" column="37" />
+      </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/templates/accounts/snippets/form.html" timestamp="1533294346607">
+        <mark key="[" line="0" column="19" />
       </file>
       <file name="$USER_HOME$/djangowebsite/mysite/personal/urls.py" timestamp="1532001285535">
         <mark key="[" line="5" column="0" />
