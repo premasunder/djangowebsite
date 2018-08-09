@@ -27,8 +27,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/addresses/templates/addresses/prev_addresses.html" timestamp="1533606669055">
         <mark key="[" line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/contact/view.html" timestamp="1532419147312">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/contact/view.html" timestamp="1533825523665">
+        <mark key="[" line="13" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/detail.html" timestamp="1533802943638">
         <mark key="[" line="19" column="14" />
@@ -39,7 +39,7 @@
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/templates/blog.html" timestamp="1531419675141">
         <mark key="[" line="3" column="55" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base.html" timestamp="1533814930463">
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base.html" timestamp="1533825722952">
         <mark key="[" line="22" column="18" />
       </file>
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/templates/basic.html" timestamp="1531334141185">
@@ -180,11 +180,12 @@
       <file name="$USER_HOME$/djangowebsite/mysite/blog/admin.py" timestamp="1531468431648">
         <mark key="[" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/css.html" timestamp="1532700924693">
-        <mark key="[" line="4" column="19" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/css.html" timestamp="1533824774825">
+        <mark key="[" line="5" column="193" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/js.html" timestamp="1533713505009">
-        <mark key="[" line="2" column="55" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/js.html" timestamp="1533824819823">
+        <mark key="[" line="5" column="203" />
+        <mark key="." line="7" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/snippets/card.html" timestamp="1533802975835">
         <mark key="[" line="7" column="77" />
