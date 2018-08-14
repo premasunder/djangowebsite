@@ -39,9 +39,7 @@
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/templates/blog.html" timestamp="1531419675141">
         <mark key="[" line="3" column="55" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base.html" timestamp="1533959031752">
-        <mark key="[" line="22" column="18" />
-      </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base.html" timestamp="1534217222486" />
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/templates/basic.html" timestamp="1531334141185">
         <mark key="[" line="2" column="18" />
       </file>
@@ -189,8 +187,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/css.html" timestamp="1533824774825">
         <mark key="[" line="5" column="193" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/js.html" timestamp="1533824819823">
-        <mark key="[" line="5" column="203" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/js.html" timestamp="1534217268675">
+        <mark key="[" line="8" column="104" />
         <mark key="." line="7" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/templates/products/snippets/card.html" timestamp="1533802975835">
