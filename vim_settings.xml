@@ -172,6 +172,11 @@
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/templates/index.html" timestamp="1531331492929">
         <mark key="[" line="3" column="33" />
       </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/fasttracktojquery/index.html" timestamp="1533713483863">
+        <mark key="[" line="176" column="49" />
+        <mark key="]" line="176" column="49" />
+        <mark key="." line="176" column="49" />
+      </file>
       <file name="$USER_HOME$/djangowebsite/mysite/shop/templates/shop/product/list.html" timestamp="1532005769762">
         <mark key="[" line="0" column="17" />
       </file>
@@ -266,8 +271,10 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/addresses/admin.py" timestamp="1533440931548">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/models.py" timestamp="1535259538273">
-        <mark key="[" line="16" column="20" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/models.py" timestamp="1536651473882">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/templates/carts/checkout.html" timestamp="1533566090930">
         <mark key="[" line="72" column="37" />
@@ -307,7 +314,7 @@
         <text encoding="base64">KQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">KQo=</text>
+        <text>confirm =</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgICAgYmlsbGluZ19hZGRyZXNzX2lkID0gcmVxdWVzdC5zZXNzaW9uLmdldCgiYmlsbGluZ19hZGRyZXNzX2lkIiwgTm9uZSkKICAgICAgICAgICAgc2hpcHBpbmdfYWRkcmVzc19pZCA9IHJlcXVlc3Quc2Vzc2lvbi5nZXQoInNoaXBwaW5nX2FkZHJlc3NfaWQiLCBOb25lKQ==</text>
@@ -330,7 +337,7 @@
         return email</text>
       </register>
       <register name="-" type="4">
-        <text>textAreaContent.val()</text>
+        <text>confirm =</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZcPg==</text>
