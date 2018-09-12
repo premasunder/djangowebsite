@@ -109,8 +109,8 @@
       <file name="$USER_HOME$/djangowebsite/mysite/personal/templates/personal/header.html" timestamp="1532001404488">
         <mark key="[" line="32" column="50" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/admin.py" timestamp="1536677511351">
-        <mark key="[" line="24" column="63" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/admin.py" timestamp="1536734831922">
+        <mark key="[" line="34" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/urls.py" timestamp="1532681360418">
         <mark key="[" line="7" column="0" />
@@ -185,8 +185,8 @@
       <file name="README.md" timestamp="1531939028274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/forms.py" timestamp="1536675071043">
-        <mark key="[" line="4" column="22" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/forms.py" timestamp="1536734046380">
+        <mark key="[" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/admin.py" timestamp="1532864584897">
         <mark key="[" line="1" column="0" />
@@ -261,10 +261,10 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/addresses/admin.py" timestamp="1533440931548">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/models.py" timestamp="1536673955300">
-        <mark key="[" line="60" column="24" />
-        <mark key="]" line="45" column="4" />
-        <mark key="." line="45" column="4" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/models.py" timestamp="1536734795251">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="51" column="4" />
+        <mark key="." line="51" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/templates/carts/checkout.html" timestamp="1533566090930">
         <mark key="[" line="72" column="37" />
