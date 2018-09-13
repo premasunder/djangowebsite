@@ -15,8 +15,8 @@
       <file name="$USER_HOME$/djangowebsite/mysite/shop/static/css/styles.css" timestamp="1531666759502">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/analytics/models.py" timestamp="1536823226924">
-        <mark key="[" line="8" column="56" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/analytics/models.py" timestamp="1536826073223">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/addresses/templates/addresses/prev_addresses.html" timestamp="1533606669055">
         <mark key="[" line="18" column="10" />
@@ -195,6 +195,7 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/models.py" timestamp="1533438935615">
         <mark key="[" line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/analytics/mixins.py" timestamp="1536824579522" />
       <file name="$USER_HOME$/Desktop/Environments/new/newproject/newproject/newblog/urls.py" timestamp="1530862242714">
         <mark key="[" line="0" column="7" />
       </file>
@@ -269,8 +270,8 @@
         <mark key="[" line="72" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/static_my_proj/js/csrf.ajax.js" timestamp="1534219424401" />
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" timestamp="1533803102941">
-        <mark key="[" line="35" column="23" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" timestamp="1536825759548">
+        <mark key="[" line="61" column="45" />
       </file>
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/templates/newtemplate/header.html" timestamp="1531226240191">
         <mark key="[" line="4" column="27" />
