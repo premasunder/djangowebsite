@@ -102,7 +102,7 @@
       <file name="README.md" timestamp="1531939028274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/forms.py" timestamp="1536910550044">
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/forms.py" timestamp="1536911245943">
         <mark key="[" line="0" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/admin.py" timestamp="1532864584897">
@@ -183,8 +183,8 @@
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/myproject/templates/about.html" timestamp="1531066185769">
         <mark key="[" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/analytics/admin.py" timestamp="1536840533864">
-        <mark key="[" line="1" column="31" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/analytics/admin.py" timestamp="1536912580623">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/tags/admin.py" timestamp="1532602611317">
         <mark key="[" line="1" column="0" />
@@ -201,8 +201,8 @@
       <file name="$USER_HOME$/Desktop/Environments/new/newproject/newproject/newproject/views.py" timestamp="1530728317698">
         <mark key="[" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/views.py" timestamp="1536909643827">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/views.py" timestamp="1536911833211">
+        <mark key="[" line="7" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/templates/home_page.html" timestamp="1532017664293">
         <mark key="[" line="20" column="21" />
@@ -231,8 +231,8 @@
       <file name="$USER_HOME$/djangowebsite/mysite/personal/templates/personal/menu.html" timestamp="1531916792809">
         <mark key="[" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/urls.py" timestamp="1536740123713">
-        <mark key="[" line="24" column="37" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/urls.py" timestamp="1536912125157">
+        <mark key="[" line="24" column="36" />
         <mark key="]" line="48" column="31" />
         <mark key="^" line="48" column="31" />
         <mark key="." line="48" column="31" />
@@ -262,8 +262,9 @@
       <file name="$USER_HOME$/djangowebsite/mysite/personal/urls.py" timestamp="1532001285535">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" timestamp="1536825759548">
-        <mark key="[" line="61" column="45" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" timestamp="1536912446185">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/templates/newtemplate/header.html" timestamp="1531226240191">
         <mark key="[" line="4" column="27" />
@@ -287,6 +288,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/templates/carts/home.html" />
       <jump line="20" column="27" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/fasttracktojquery/index.html" />
       <jump line="17" column="24" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/views.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -322,13 +324,13 @@
         <text>confirm =</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZcPg==</text>
+        <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZcPg==</last-search>
+      <last-search encoding="base64">XDxmcm9tXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmcm9tXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -338,6 +340,7 @@
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry encoding="base64">XDxsaW5rXD4=</entry>
         <entry encoding="base64">XDxkZWZcPg==</entry>
+        <entry encoding="base64">XDxmcm9tXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
