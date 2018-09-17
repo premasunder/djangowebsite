@@ -226,20 +226,18 @@
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/myproject/settings.py" timestamp="1531464052786">
         <mark key="[" line="58" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/views.py" timestamp="1537169680066">
-        <mark key="[" line="10" column="88" />
-      </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/views.py" timestamp="1537171494241" />
       <file name="$USER_HOME$/Desktop/Environments/new/newproject/newproject/newproject/views.py" timestamp="1530728317698">
         <mark key="[" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/views.py" timestamp="1537001083041">
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/views.py" timestamp="1537171335661">
         <mark key="[" line="72" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/templates/billing/payment-method.html" timestamp="1537169998992">
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/templates/billing/payment-method.html" timestamp="1537171542040">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="20" />
-        <mark key="]" line="48" column="33" />
-        <mark key="." line="48" column="20" />
+        <mark key="[" line="12" column="131" />
+        <mark key="]" line="49" column="33" />
+        <mark key="." line="49" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1531939167115">
         <mark key="[" line="0" column="0" />
