@@ -196,8 +196,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/admin.py" timestamp="1537275698611">
         <mark key="[" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/models.py" timestamp="1537338247402">
-        <mark key="[" line="59" column="18" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/models.py" timestamp="1537340268781">
+        <mark key="[" line="3" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/views.py" timestamp="1537338139235">
         <mark key="[" line="101" column="45" />
@@ -276,8 +276,10 @@
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/models.py" timestamp="1536909943495" />
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/templates/carts/checkout.html" timestamp="1537284882841">
-        <mark key="[" line="63" column="17" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/templates/carts/checkout.html" timestamp="1537340163947">
+        <mark key="[" line="72" column="124" />
+        <mark key="]" line="75" column="16" />
+        <mark key="." line="75" column="16" />
       </file>
       <file name="$USER_HOME$/djangowebsite/myvenv/myproject/mywebsite/templates/newtemplate/header.html" timestamp="1531226240191">
         <mark key="[" line="4" column="27" />
@@ -312,7 +314,7 @@
         <text encoding="base64">KQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'pk_test_mMFnc9eFTkAuwyV3adGaJHYd'</text>
+        <text encoding="base64">PHA+T3JkZXIgVG90YWw6IHt7IG9iamVjdC50b3RhbCB9fTwvcD4=</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgICAgYmlsbGluZ19hZGRyZXNzX2lkID0gcmVxdWVzdC5zZXNzaW9uLmdldCgiYmlsbGluZ19hZGRyZXNzX2lkIiwgTm9uZSkKICAgICAgICAgICAgc2hpcHBpbmdfYWRkcmVzc19pZCA9IHJlcXVlc3Quc2Vzc2lvbi5nZXQoInNoaXBwaW5nX2FkZHJlc3NfaWQiLCBOb25lKQ==</text>
@@ -335,7 +337,7 @@
         return email</text>
       </register>
       <register name="-" type="4">
-        <text>'pk_test_mMFnc9eFTkAuwyV3adGaJHYd'</text>
+        <text encoding="base64">PHA+T3JkZXIgVG90YWw6IHt7IG9iamVjdC50b3RhbCB9fTwvcD4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
