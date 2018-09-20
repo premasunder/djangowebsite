@@ -217,7 +217,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/addresses/forms.py" timestamp="1536735599842">
         <mark key="[" line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/utils.py" timestamp="1537433031237">
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/utils.py" timestamp="1537436530084">
+        <mark key="'" line="49" column="44" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/auth/register.html" timestamp="1532525954354">
@@ -311,6 +312,7 @@
       <jump line="17" column="24" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/views.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/templates/billing/payment-method.html" />
+      <jump line="32" column="44" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/utils.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
