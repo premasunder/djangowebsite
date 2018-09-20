@@ -136,7 +136,10 @@
       <file name="$USER_HOME$/djangowebsite/mysite/personal/urls.py" timestamp="1532001285535">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/models.py" timestamp="1537288627186">
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/models.py" timestamp="1537427423916">
+        <mark key="[" line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/models.py" timestamp="1537427616314">
         <mark key="[" line="5" column="34" />
       </file>
       <file name="$USER_HOME$/djangowebsite/mysite/shop/urls.py" timestamp="1532002990632">
@@ -217,8 +220,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/auth/register.html" timestamp="1532525954354">
         <mark key="[" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings.py" timestamp="1537285436164">
-        <mark key="[" line="57" column="17" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings.py" timestamp="1537427509807">
+        <mark key="[" line="45" column="11" />
       </file>
       <file name="$USER_HOME$/djangowebsite/mysite/personal/templates/personal/includes/htmlsnippet.html" timestamp="1531911816536">
         <mark key="[" line="1" column="37" />
