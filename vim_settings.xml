@@ -56,8 +56,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/runtime.txt" timestamp="1537689347438">
         <mark key="[" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base.html" timestamp="1537781424022">
-        <mark key="[" line="12" column="48" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base.html" timestamp="1537804501848">
+        <mark key="[" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/views.py" timestamp="1537285572036">
         <mark key="[" line="0" column="0" />
@@ -83,8 +83,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/admin.py" timestamp="1537463341784">
         <mark key="[" line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings/production.py" timestamp="1537783484200">
-        <mark key="[" line="22" column="64" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings/production.py" timestamp="1537805712436">
+        <mark key="[" line="33" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/forms.py" timestamp="1537375144357">
         <mark key="[" line="9" column="46" />
@@ -101,11 +101,11 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/forms.py" timestamp="1537512354074">
         <mark key="[" line="5" column="70" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings/local.py" timestamp="1537714820081">
-        <mark key="[" line="156" column="79" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings/local.py" timestamp="1537805721640">
+        <mark key="[" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings/base.py" timestamp="1537712698623">
-        <mark key="[" line="166" column="38" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings/base.py" timestamp="1537805731126">
+        <mark key="[" line="27" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/models.py" timestamp="1537455231370">
         <mark key="[" line="2" column="45" />
