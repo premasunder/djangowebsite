@@ -24,10 +24,6 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/.gitignore" timestamp="1537606678196">
         <mark key="[" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/aws/conf.py" timestamp="1537783778698">
-        <mark key="'" line="5" column="78" />
-        <mark key="[" line="0" column="14" />
-      </file>
       <file name="/a.dummy" timestamp="1537541121510">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,6 +54,9 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base.html" timestamp="1537804501848">
         <mark key="[" line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/orders/urls.py" timestamp="1537889607874">
+        <mark key="[" line="4" column="32" />
+      </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/views.py" timestamp="1537285572036">
         <mark key="[" line="0" column="0" />
       </file>
@@ -68,7 +67,7 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/aws/utils.py" timestamp="1537712100919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/views.py" timestamp="1537860548773">
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/views.py" timestamp="1537889354445">
         <mark key="[" line="17" column="6" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/Procfile" timestamp="1537688007460">
@@ -132,6 +131,12 @@
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/models.py" timestamp="1537455231370">
         <mark key="[" line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/orders/views.py" timestamp="1537889596993">
+        <mark key="[" line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/orders/models.py" timestamp="1537889090503">
+        <mark key="[" line="17" column="25" />
       </file>
     </filemarks>
     <jumps>
