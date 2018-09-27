@@ -78,11 +78,11 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/orders/views.py" timestamp="1537960667737">
         <mark key="[" line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/orders/models.py" timestamp="1537961854874">
-        <mark key="[" line="51" column="45" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/orders/models.py" timestamp="1538034180940">
+        <mark key="[" line="52" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/models.py" timestamp="1537961346932" />
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/navbar.html" timestamp="1537962126520">
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/navbar.html" timestamp="1538034423106">
         <mark key="[" line="35" column="39" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/400.html" timestamp="1537804217249">
@@ -106,8 +106,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/analytics/admin.py" timestamp="1536912580623">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/orders/templates/orders/order_detail.html" timestamp="1537961720865">
-        <mark key="[" line="19" column="31" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/orders/templates/orders/order_detail.html" timestamp="1538033946286">
+        <mark key="[" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/templates/carts/checkout-done.html" timestamp="1537958794064" />
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/views.py" timestamp="1537285572036">
