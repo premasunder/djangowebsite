@@ -85,6 +85,9 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/orders/models.py" timestamp="1538036093297">
         <mark key="[" line="52" column="23" />
       </file>
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/forms.py" timestamp="1538145477256">
+        <mark key="[" line="36" column="21" />
+      </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/models.py" timestamp="1538036791977">
         <mark key="[" line="100" column="58" />
       </file>
@@ -122,8 +125,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/views.py" timestamp="1537285572036">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/views.py" timestamp="1537889354445">
-        <mark key="[" line="17" column="6" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/views.py" timestamp="1538146267599">
+        <mark key="[" line="56" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/Procfile" timestamp="1537688007460">
         <mark key="[" line="0" column="0" />
