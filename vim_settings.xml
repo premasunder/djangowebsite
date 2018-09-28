@@ -18,8 +18,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/analytics/models.py" timestamp="1536841275009">
         <mark key="[" line="67" column="24" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings/__init__.py" timestamp="1537714795472">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings/__init__.py" timestamp="1538118013226">
+        <mark key="[" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/contact/view.html" timestamp="1537962292755">
         <mark key="[" line="7" column="3" />
@@ -98,6 +98,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/.gitignore" timestamp="1537606678196">
         <mark key="[" line="9" column="5" />
+      </file>
+      <file name="/Python Console" timestamp="1538118464807">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/mixins.py" timestamp="1537523892149">
         <mark key="[" line="0" column="0" />
