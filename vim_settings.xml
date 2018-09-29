@@ -51,8 +51,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings/production.py" timestamp="1538207229729">
         <mark key="[" line="38" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/forms.py" timestamp="1538213810945">
-        <mark key="[" line="47" column="56" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/forms.py" timestamp="1538217937373">
+        <mark key="[" line="114" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/static_cdn/static_root/js/ecommerce.js" timestamp="1538037632699">
         <mark key="[" line="7" column="0" />
@@ -140,9 +140,6 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/passwords/urls.py" timestamp="1537885923885">
         <mark key="[" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/admin.py" timestamp="1538216358614">
-        <mark key="[" line="19" column="4" />
-      </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/urls.py" timestamp="1538207542163">
         <mark key="[" line="31" column="54" />
         <mark key="]" line="51" column="46" />
@@ -155,8 +152,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/admin.py" timestamp="1537463341784">
         <mark key="[" line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/models.py" timestamp="1538216506520">
-        <mark key="[" line="62" column="4" />
+      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/models.py" timestamp="1538218610613">
+        <mark key="[" line="60" column="46" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" timestamp="1537886742965">
         <mark key="[" line="28" column="38" />
