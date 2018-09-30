@@ -42,6 +42,12 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/aws/utils.py" timestamp="1537712100919">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/mysite/mysite/settings.py" timestamp="1538317293646">
+        <mark key="[" line="56" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dev/mysite/templates/contact/view.html" timestamp="1538319224751">
+        <mark key="[" line="16" column="33" />
+      </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/urls.py" timestamp="1538207822809">
         <mark key="[" line="9" column="14" />
       </file>
@@ -50,6 +56,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/migrations/0001_initial.py" timestamp="1538235704751">
         <mark key="[" line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/Dev/mysite/mysite/views.py" timestamp="1538318833751">
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings/production.py" timestamp="1538242920103">
         <mark key="[" line="120" column="43" />
@@ -116,7 +125,10 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/500.html" timestamp="1537804190836">
         <mark key="[" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/css.html" timestamp="1538241936841" />
+      <file name="$USER_HOME$/Dev/mysite/templates/about_page.html" timestamp="1538318713744">
+        <mark key="'" line="15" column="15" />
+        <mark key="[" line="10" column="32" />
+      </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/analytics/admin.py" timestamp="1536912580623">
         <mark key="[" line="5" column="0" />
       </file>
@@ -125,6 +137,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/views.py" timestamp="1537285572036">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1538319000531">
+        <mark key="[" line="16" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/views.py" timestamp="1538234385888">
         <mark key="[" line="14" column="95" />
@@ -144,12 +159,6 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/admin.py" timestamp="1538231051515">
         <mark key="[" line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/urls.py" timestamp="1538207542163">
-        <mark key="[" line="31" column="54" />
-        <mark key="]" line="51" column="46" />
-        <mark key="^" line="65" column="31" />
-        <mark key="." line="51" column="37" />
-      </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/404.html" timestamp="1537804199216">
         <mark key="[" line="6" column="15" />
       </file>
@@ -158,6 +167,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/models.py" timestamp="1538235529787">
         <mark key="[" line="64" column="5" />
+      </file>
+      <file name="$USER_HOME$/Dev/mysite/templates/home_page.html" timestamp="1538318718029">
+        <mark key="[" line="10" column="32" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" timestamp="1537886742965">
         <mark key="[" line="28" column="38" />
@@ -192,6 +204,7 @@
       <jump line="32" column="44" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/utils.py" />
       <jump line="6" column="78" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/aws/conf.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/templates/accounts/home.html" />
+      <jump line="17" column="15" filename="$USER_HOME$/Dev/mysite/templates/about_page.html" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -230,13 +243,13 @@
         <text encoding="base64">PHA+T3JkZXIgVG90YWw6IHt7IG9iamVjdC50b3RhbCB9fTwvcD4=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcm9tXD4=</text>
+        <text encoding="base64">XDxpbWdcPg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcm9tXD4=</last-search>
+      <last-search encoding="base64">XDxpbWdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcm9tXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpbWdcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -247,6 +260,7 @@
         <entry encoding="base64">XDxsaW5rXD4=</entry>
         <entry encoding="base64">XDxkZWZcPg==</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
+        <entry encoding="base64">XDxpbWdcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
