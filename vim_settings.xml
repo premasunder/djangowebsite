@@ -49,8 +49,9 @@
       <file name="$USER_HOME$/Dev/mysite/billing/models.py" timestamp="1538670695108">
         <mark key="[" line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1538843462632">
-        <mark key="[" line="84" column="74" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1538844810889">
+        <mark key="'" line="79" column="4" />
+        <mark key="[" line="86" column="88" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/billing/admin.py" timestamp="1538640256875">
         <mark key="[" line="2" column="47" />
@@ -91,6 +92,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dev/mysite/static_my_proj/css/home.css" />
       <jump line="13" column="39" filename="$USER_HOME$/Dev/mysite/templates/base/footer.html" />
       <jump line="42" column="4" filename="$USER_HOME$/Dev/mysite/mysite/urls.py" />
+      <jump line="79" column="4" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -129,13 +131,13 @@
         <text>Our Location</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cmxcPg==</text>
+        <text encoding="base64">XDxndWVzdF9lbWFpbF9pZFw+</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cmxcPg==</last-search>
+      <last-search encoding="base64">XDxndWVzdF9lbWFpbF9pZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cmxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxndWVzdF9lbWFpbF9pZFw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -149,6 +151,7 @@
         <entry encoding="base64">XDxsb2dpbl9mb3JtXD4=</entry>
         <entry encoding="base64">XDxmb290ZXJcPg==</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
+        <entry encoding="base64">XDxndWVzdF9lbWFpbF9pZFw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
