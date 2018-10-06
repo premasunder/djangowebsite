@@ -46,6 +46,9 @@
       <file name="$USER_HOME$/Dev/mysite/products/admin.py" timestamp="1538464142672">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/mysite/accounts/urls.py" timestamp="1538814879265">
+        <mark key="[" line="2" column="1" />
+      </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/forms.py" timestamp="1538571598343">
         <mark key="[" line="42" column="31" />
       </file>
@@ -67,7 +70,7 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/forms.py" timestamp="1538145477256">
         <mark key="[" line="36" column="21" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/urls.py" timestamp="1538640020438">
+      <file name="$USER_HOME$/Dev/mysite/carts/urls.py" timestamp="1538814899296">
         <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/models.py" timestamp="1538237867601">
@@ -114,10 +117,8 @@
       <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1538679940933">
         <mark key="[" line="34" column="63" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/accounts/views.py" timestamp="1538656176210">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="13" column="148" />
-        <mark key="." line="13" column="96" />
+      <file name="$USER_HOME$/Dev/mysite/accounts/views.py" timestamp="1538814674274">
+        <mark key="[" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings/base.py" timestamp="1538242893576">
         <mark key="[" line="118" column="43" />
@@ -137,6 +138,7 @@
         <mark key="]" line="15" column="37" />
         <mark key="." line="15" column="16" />
       </file>
+      <file name="$USER_HOME$/Dev/mysite/accounts/templates/accounts/home.html" timestamp="1538815029651" />
       <file name="$USER_HOME$/Dev/mysite/accounts/admin.py" timestamp="1538654094887" />
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings/__init__.py" timestamp="1538128294112">
         <mark key="[" line="4" column="0" />
@@ -234,8 +236,9 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/views.py" timestamp="1537285572036">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1538668403735">
-        <mark key="[" line="21" column="58" />
+      <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1538815724584">
+        <mark key="'" line="41" column="4" />
+        <mark key="[" line="46" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/views.py" timestamp="1538234385888">
         <mark key="[" line="14" column="95" />
@@ -243,9 +246,7 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/addresses/models.py" timestamp="1538205351223">
         <mark key="[" line="22" column="8" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/templates/base/navbar.html" timestamp="1538727352729">
-        <mark key="[" line="50" column="7" />
-      </file>
+      <file name="$USER_HOME$/Dev/mysite/templates/base/navbar.html" timestamp="1538815954619" />
       <file name="$USER_HOME$/Dev/mysite/tags/models.py" timestamp="1538559727734">
         <mark key="[" line="4" column="13" />
       </file>
@@ -296,6 +297,7 @@
       <jump line="76" column="4" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Dev/mysite/static_my_proj/css/home.css" />
       <jump line="13" column="39" filename="$USER_HOME$/Dev/mysite/templates/base/footer.html" />
+      <jump line="42" column="4" filename="$USER_HOME$/Dev/mysite/mysite/urls.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -334,26 +336,26 @@
         <text>Our Location</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb290ZXJcPg==</text>
+        <text encoding="base64">XDx1cmxcPg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb290ZXJcPg==</last-search>
+      <last-search encoding="base64">XDx1cmxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb290ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1cmxcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDx3ZWJhcHBcPg==</entry>
-        <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry encoding="base64">XDxsaW5rXD4=</entry>
         <entry encoding="base64">XDxkZWZcPg==</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry encoding="base64">XDxpbWdcPg==</entry>
         <entry encoding="base64">XDxsb2dpbl9mb3JtXD4=</entry>
         <entry encoding="base64">XDxmb290ZXJcPg==</entry>
+        <entry encoding="base64">XDx1cmxcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
