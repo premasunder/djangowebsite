@@ -149,10 +149,11 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/contact/view.html" timestamp="1537962292755">
         <mark key="[" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/templates/base/speisekarte-static.html" timestamp="1538994398857">
-        <mark key="[" line="597" column="0" />
-        <mark key="]" line="597" column="33" />
-        <mark key="." line="597" column="33" />
+      <file name="$USER_HOME$/Dev/mysite/templates/base/speisekarte-static.html" timestamp="1539000215926">
+        <mark key="'" line="1081" column="73" />
+        <mark key="[" line="108" column="64" />
+        <mark key="]" line="729" column="0" />
+        <mark key="." line="729" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/checkout.html" timestamp="1538831896099">
         <mark key="[" line="47" column="75" />
@@ -277,7 +278,7 @@
       <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1538559691720">
         <mark key="[" line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/templates/home_page.html" timestamp="1538979340561">
+      <file name="$USER_HOME$/Dev/mysite/templates/home_page.html" timestamp="1538999876817">
         <mark key="[" line="5" column="62" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/views.py" timestamp="1537886742965">
@@ -316,36 +317,40 @@
       <jump line="13" column="39" filename="$USER_HOME$/Dev/mysite/templates/base/footer.html" />
       <jump line="42" column="4" filename="$USER_HOME$/Dev/mysite/mysite/urls.py" />
       <jump line="79" column="4" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
+      <jump line="1071" column="73" filename="$USER_HOME$/Dev/mysite/templates/base/speisekarte-static.html" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>rogramming, Teaching, Entrepreneurship</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48cCBjbGFzcz0idGV4dC1zdWNjZXNzIj5QYW5pZXJ0ZXMgU2Nod2VpbmVzY2huaXR6ZWwgPC9wPjwvdGQ+Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48cCBjbGFzcz0idGV4dC1zdWNjZXNzIj5QYW5pZXJ0ZXMgU2Nod2VpbmVzY2huaXR6ZWwgPC9wPjwvdGQ+Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">TUFJTENISU1QX0FQSV9LRVkgPSBvcy5lbnZpcm9uLmdldCgiTUFJTENISU1QX0FQSV9LRVkiLCAiIikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>about_page</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">KQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAgYmlsbGluZ19hZGRyZXNzX2lkID0gcmVxdWVzdC5zZXNzaW9uLmdldCgiYmlsbGluZ19hZGRyZXNzX2lkIiwgTm9uZSkKICAgICAgICAgICAgc2hpcHBpbmdfYWRkcmVzc19pZCA9IHJlcXVlc3Quc2Vzc2lvbi5nZXQoInNoaXBwaW5nX2FkZHJlc3NfaWQiLCBOb25lKQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>title = models.CharField(max_length=120)
     slug = models.SlugField()
     timestamp = models.DateTimeField(auto_now_add=True)
     active = models.BooleanField(default=True)</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgTmF2Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>not &quot;gmail.com&quot; in email:
             raise forms.ValidationError(&quot;Email has to be gmail.com&quot;)
         return email</text>
