@@ -149,8 +149,10 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/contact/view.html" timestamp="1537962292755">
         <mark key="[" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/templates/base/speisekarte-static.html" timestamp="1538985978115">
-        <mark key="[" line="5" column="62" />
+      <file name="$USER_HOME$/Dev/mysite/templates/base/speisekarte-static.html" timestamp="1538994398857">
+        <mark key="[" line="597" column="0" />
+        <mark key="]" line="597" column="33" />
+        <mark key="." line="597" column="33" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/checkout.html" timestamp="1538831896099">
         <mark key="[" line="47" column="75" />
