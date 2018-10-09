@@ -220,8 +220,8 @@
       <file name="$USER_HOME$/Dev/mysite/billing/admin.py" timestamp="1538640256875">
         <mark key="[" line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/settings/production.py" timestamp="1539069519408">
-        <mark key="[" line="158" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/mysite/settings/production.py" timestamp="1539070449300">
+        <mark key="[" line="27" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/views.py" timestamp="1537285572036">
         <mark key="[" line="0" column="0" />
@@ -340,13 +340,13 @@
         <text>{'category': category, 'categories': categories, 'products': products}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxndWVzdF9lbWFpbF9pZFw+</text>
+        <text encoding="base64">XDxbXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxndWVzdF9lbWFpbF9pZFw+</last-search>
+      <last-search encoding="base64">XDxbXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxndWVzdF9lbWFpbF9pZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxbXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -361,6 +361,7 @@
         <entry encoding="base64">XDxmb290ZXJcPg==</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry encoding="base64">XDxndWVzdF9lbWFpbF9pZFw+</entry>
+        <entry encoding="base64">XDxbXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
