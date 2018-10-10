@@ -33,7 +33,6 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/detail.html" timestamp="1539014608106">
         <mark key="[" line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list.html" timestamp="1539015384194" />
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/orders/urls.py" timestamp="1537959854890">
         <mark key="[" line="9" column="46" />
       </file>
@@ -91,11 +90,9 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/mixins.py" timestamp="1537523892149">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/billing/views.py" timestamp="1538668793999" />
       <file name="$USER_HOME$/Dev/mysite/templates/auth/register.html" timestamp="1538466941505">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/orders/views.py" timestamp="1538639583866" />
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/analytics/admin.py" timestamp="1536912580623">
         <mark key="[" line="5" column="0" />
       </file>
@@ -144,7 +141,6 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/carts/models.py" timestamp="1537427616314">
         <mark key="[" line="5" column="34" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/accounts/admin.py" timestamp="1538654094887" />
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings/__init__.py" timestamp="1538128294112">
         <mark key="[" line="4" column="0" />
       </file>
@@ -226,8 +222,8 @@
       <file name="$USER_HOME$/Dev/mysite/billing/admin.py" timestamp="1538640256875">
         <mark key="[" line="2" column="47" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/settings/production.py" timestamp="1539152649698">
-        <mark key="[" line="27" column="30" />
+      <file name="$USER_HOME$/Dev/mysite/mysite/settings/production.py" timestamp="1539154221775">
+        <mark key="[" line="27" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/billing/views.py" timestamp="1537285572036">
         <mark key="[" line="0" column="0" />
@@ -242,8 +238,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/addresses/models.py" timestamp="1538205351223">
         <mark key="[" line="22" column="8" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/settings/base.py" timestamp="1539109300344">
-        <mark key="[" line="107" column="43" />
+      <file name="$USER_HOME$/Dev/mysite/mysite/settings/base.py" timestamp="1539153993951">
+        <mark key="[" line="27" column="53" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/base/navbar.html" timestamp="1539067183127">
         <mark key="[" line="1" column="33" />
@@ -254,7 +250,9 @@
       <file name="$USER_HOME$/Dev/mysite/marketing/models.py" timestamp="1539023334946">
         <mark key="[" line="7" column="79" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1539069143195" />
+      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1539155266774">
+        <mark key="[" line="4" column="1" />
+      </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/admin.py" timestamp="1537463341784">
         <mark key="[" line="3" column="38" />
       </file>
@@ -264,8 +262,7 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/models.py" timestamp="1538235529787">
         <mark key="[" line="64" column="5" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1539013637035" />
-      <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1539109320311">
+      <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1539153978305">
         <mark key="[" line="107" column="43" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/home_page.html" timestamp="1539068806004">
