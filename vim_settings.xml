@@ -12,7 +12,6 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/403.html" timestamp="1537804207560">
         <mark key="[" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/home.css" timestamp="1538926834229" />
       <file name="/a.dummy" timestamp="1539069014752">
         <mark key="[" line="0" column="0" />
       </file>
@@ -34,8 +33,8 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/detail.html" timestamp="1539014608106">
         <mark key="[" line="8" column="51" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list.html" timestamp="1539344547460">
-        <mark key="[" line="5" column="29" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list.html" timestamp="1539363241593">
+        <mark key="[" line="8" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/orders/urls.py" timestamp="1537959854890">
         <mark key="[" line="9" column="46" />
@@ -57,8 +56,8 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/forms.py" timestamp="1538571598343">
         <mark key="[" line="42" column="31" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/card.html" timestamp="1539346107748">
-        <mark key="[" line="6" column="25" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/card.html" timestamp="1539363432633">
+        <mark key="[" line="15" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/utils.py" timestamp="1538205307268">
         <mark key="[" line="44" column="15" />
@@ -93,7 +92,11 @@
       <file name="/Python Console" timestamp="1538118464807">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list1.html" timestamp="1539345691154" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list1.html" timestamp="1539363439041">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/Dev/delete/deletethis/settings.py" timestamp="1539240379575" />
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/mixins.py" timestamp="1537523892149">
         <mark key="[" line="0" column="0" />
@@ -251,7 +254,7 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings.py" timestamp="1537428530881">
         <mark key="[" line="45" column="11" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/urls.py" timestamp="1539343934406">
+      <file name="$USER_HOME$/Dev/mysite/products/urls.py" timestamp="1539362413734">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="8" />
         <mark key="." line="5" column="8" />
@@ -367,7 +370,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48cCBjbGFzcz0idGV4dC1zdWNjZXNzIj5QYW5pZXJ0ZXMgU2Nod2VpbmVzY2huaXR6ZWwgPC9wPjwvdGQ+Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>#ProductDownloadView</text>
+        <text>obj.categories.slug</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">TUFJTENISU1QX0FQSV9LRVkgPSBvcy5lbnZpcm9uLmdldCgiTUFJTENISU1QX0FQSV9LRVkiLCAiIikK</text>
@@ -396,7 +399,7 @@
         return email</text>
       </register>
       <register name="-" type="4">
-        <text>#ProductDownloadView</text>
+        <text>obj.categories.slug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxbXD4=</text>
