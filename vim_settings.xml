@@ -12,6 +12,7 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/403.html" timestamp="1537804207560">
         <mark key="[" line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/home.css" timestamp="1538926834229" />
       <file name="/a.dummy" timestamp="1539069014752">
         <mark key="[" line="0" column="0" />
       </file>
@@ -56,8 +57,8 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/forms.py" timestamp="1538571598343">
         <mark key="[" line="42" column="31" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/card.html" timestamp="1539344358577">
-        <mark key="[" line="5" column="51" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/card.html" timestamp="1539346107748">
+        <mark key="[" line="6" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/utils.py" timestamp="1538205307268">
         <mark key="[" line="44" column="15" />
@@ -92,9 +93,7 @@
       <file name="/Python Console" timestamp="1538118464807">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list1.html" timestamp="1539344070973">
-        <mark key="[" line="3" column="16" />
-      </file>
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list1.html" timestamp="1539345691154" />
       <file name="$USER_HOME$/Dev/delete/deletethis/settings.py" timestamp="1539240379575" />
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/mixins.py" timestamp="1537523892149">
         <mark key="[" line="0" column="0" />
@@ -204,6 +203,7 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/migrations/0001_initial.py" timestamp="1538235704751">
         <mark key="[" line="24" column="16" />
       </file>
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/card1.html" timestamp="1539345659991" />
       <file name="$USER_HOME$/Dev/mysite/mysite/views.py" timestamp="1538979832397">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="31" column="28" />
