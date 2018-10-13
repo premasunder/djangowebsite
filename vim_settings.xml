@@ -175,8 +175,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base.html" timestamp="1538136723953">
         <mark key="[" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1539364970155">
-        <mark key="[" line="58" column="57" />
+      <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1539424174833">
+        <mark key="'" line="63" column="39" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/accounts/forms.py" timestamp="1538842735779">
         <mark key="[" line="51" column="27" />
@@ -244,8 +244,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/ecommerce/settings.py" timestamp="1537428530881">
         <mark key="[" line="45" column="11" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/urls.py" timestamp="1539362413734">
-        <mark key="[" line="5" column="8" />
+      <file name="$USER_HOME$/Dev/mysite/products/urls.py" timestamp="1539424195706">
+        <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="8" />
         <mark key="." line="5" column="8" />
       </file>
@@ -289,6 +289,9 @@
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1539246660532">
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1539423393179">
+        <mark key="[" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/admin.py" timestamp="1537463341784">
         <mark key="[" line="3" column="38" />
@@ -348,6 +351,7 @@
       <jump line="42" column="4" filename="$USER_HOME$/Dev/mysite/mysite/urls.py" />
       <jump line="79" column="4" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
       <jump line="1071" column="73" filename="$USER_HOME$/Dev/mysite/templates/base/speisekarte-static.html" />
+      <jump line="63" column="39" filename="$USER_HOME$/Dev/mysite/products/views.py" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -357,7 +361,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48cCBjbGFzcz0idGV4dC1zdWNjZXNzIj5QYW5pZXJ0ZXMgU2Nod2VpbmVzY2huaXR6ZWwgPC9wPjwvdGQ+Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>object_list</text>
+        <text>queryset</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">TUFJTENISU1QX0FQSV9LRVkgPSBvcy5lbnZpcm9uLmdldCgiTUFJTENISU1QX0FQSV9LRVkiLCAiIikK</text>
@@ -386,7 +390,7 @@
         return email</text>
       </register>
       <register name="-" type="4">
-        <text>object_list</text>
+        <text>queryset</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxbXD4=</text>
