@@ -111,8 +111,8 @@
       <file name="$USER_HOME$/Dev/mysite/.env" timestamp="1539247616479">
         <mark key="[" line="7" column="60" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/main.css" timestamp="1539678132695">
-        <mark key="[" line="9" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/main.css" timestamp="1539689883891">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/urls.py" timestamp="1539532100009">
         <mark key="[" line="6" column="20" />
@@ -149,7 +149,7 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1539246660532">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1539688909603">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1539689772095">
         <mark key="[" line="28" column="47" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
