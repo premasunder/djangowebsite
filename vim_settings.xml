@@ -138,7 +138,9 @@
         <mark key="]" line="46" column="65" />
         <mark key="." line="46" column="65" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/sauce.html" timestamp="1539778040471" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/sauce.html" timestamp="1539779606878">
+        <mark key="'" line="2" column="14" />
+      </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/base.py" timestamp="1539277943165">
         <mark key="[" line="124" column="43" />
       </file>
@@ -151,7 +153,7 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1539246660532">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1539778184393">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1539779645501">
         <mark key="[" line="25" column="20" />
         <mark key="]" line="25" column="20" />
         <mark key="." line="25" column="20" />
@@ -204,6 +206,7 @@
       <jump line="63" column="39" filename="$USER_HOME$/Dev/mysite/products/views.py" />
       <jump line="72" column="4" filename="$USER_HOME$/Dev/mysite/mysite/urls.py" />
       <jump line="34" column="44" filename="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" />
+      <jump line="2" column="14" filename="$USER_HOME$/Dev/mysite/products/templates/products/snippets/sauce.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
