@@ -139,7 +139,7 @@
         <mark key="]" line="44" column="65" />
         <mark key="." line="44" column="65" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/sauce.html" timestamp="1539846651274">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/sauce.html" timestamp="1539851731865">
         <mark key="[" line="1" column="7" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/base.py" timestamp="1539277943165">
@@ -178,8 +178,8 @@
       <file name="$USER_HOME$/Dev/mysite/accounts/templates/accounts/login.html" timestamp="1538902586340">
         <mark key="[" line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/forms.py" timestamp="1539843489987">
-        <mark key="[" line="2" column="26" />
+      <file name="$USER_HOME$/Dev/mysite/products/forms.py" timestamp="1539851832719">
+        <mark key="[" line="9" column="19" />
       </file>
     </filemarks>
     <jumps>
