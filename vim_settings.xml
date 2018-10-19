@@ -308,8 +308,10 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/views.py" timestamp="1538234385888">
         <mark key="[" line="14" column="95" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/sauce.html" timestamp="1539972720819">
-        <mark key="[" line="2" column="47" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/sauce.html" timestamp="1539976044122">
+        <mark key="[" line="7" column="67" />
+        <mark key="]" line="7" column="67" />
+        <mark key="." line="7" column="67" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/addresses/models.py" timestamp="1538205351223">
         <mark key="[" line="22" column="8" />
@@ -329,10 +331,10 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1539246660532">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1539972032854">
-        <mark key="[" line="35" column="56" />
-        <mark key="]" line="25" column="20" />
-        <mark key="." line="25" column="20" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1539975061938">
+        <mark key="[" line="37" column="56" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="27" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/admin.py" timestamp="1537463341784">
         <mark key="[" line="3" column="38" />
@@ -405,10 +407,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">eyUgaWYgb2JqLmltYWdlICV9PA==</text>
+        <text>random</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eyUgaWYgb2JqLmltYWdlICV9PA==</text>
+        <text>random</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmxcPg==</text>
