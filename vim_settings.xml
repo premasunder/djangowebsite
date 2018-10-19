@@ -192,7 +192,7 @@
         <mark key="[" line="12" column="72" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1539957954737">
-        <mark key="[" line="118" column="0" />
+        <mark key="[" line="116" column="0" />
         <mark key="]" line="42" column="39" />
         <mark key="." line="42" column="39" />
       </file>
@@ -366,8 +366,8 @@
       <file name="$USER_HOME$/Dev/mysite/accounts/templates/accounts/login.html" timestamp="1538902586340">
         <mark key="[" line="10" column="9" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/forms.py" timestamp="1539957969980">
-        <mark key="[" line="6" column="23" />
+      <file name="$USER_HOME$/Dev/mysite/products/forms.py" timestamp="1539959063608">
+        <mark key="[" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/base/navbar1.html" timestamp="1539253055240">
         <mark key="[" line="8" column="4" />
