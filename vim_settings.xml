@@ -93,12 +93,12 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/checkout.html" timestamp="1540449682251">
         <mark key="[" line="47" column="76" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1540472469235">
+      <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1540486783316">
         <mark key="'" line="19" column="24" />
         <mark key="y" line="24" column="48" />
         <mark key="[" line="18" column="0" />
-        <mark key="]" line="61" column="39" />
-        <mark key="." line="61" column="39" />
+        <mark key="]" line="62" column="39" />
+        <mark key="." line="62" column="39" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1540380629101">
         <mark key="[" line="21" column="71" />
