@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/home.css" timestamp="1538926834229" />
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/detail.html" timestamp="1539014608106">
         <mark key="[" line="8" column="51" />
       </file>
@@ -44,6 +45,7 @@
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/list1.html" timestamp="1539534743834" />
       <file name="$USER_HOME$/Dev/delete/deletethis/settings.py" timestamp="1539240379575" />
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1540282042320" />
       <file name="$USER_HOME$/Dev/mysite/billing/views.py" timestamp="1538668793999" />
       <file name="$USER_HOME$/Dev/mysite/orders/views.py" timestamp="1539532079367" />
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/form.html" timestamp="1540452292033">
@@ -162,9 +164,7 @@
         <mark key="]" line="44" column="65" />
         <mark key="." line="44" column="65" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/sauce_create.html" timestamp="1540488376677">
-        <mark key="[" line="6" column="18" />
-      </file>
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/sauce_create.html" timestamp="1540546464725" />
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/sauce.html" timestamp="1540467026878">
         <mark key="]" line="8" column="67" />
         <mark key="." line="8" column="67" />
@@ -181,8 +181,8 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1539246660532">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1540476710729">
-        <mark key="[" line="38" column="63" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1540546474391">
+        <mark key="[" line="39" column="0" />
         <mark key="]" line="28" column="20" />
         <mark key="." line="28" column="20" />
       </file>
@@ -250,10 +250,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>random</text>
+        <text>object_list</text>
       </register>
       <register name="-" type="4">
-        <text>random</text>
+        <text>object_list</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludFw+</text>
