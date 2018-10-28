@@ -93,7 +93,7 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/checkout.html" timestamp="1540449682251">
         <mark key="[" line="47" column="76" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1540715108475">
+      <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1540716216834">
         <mark key="'" line="46" column="24" />
         <mark key="y" line="51" column="48" />
         <mark key="[" line="51" column="77" />
@@ -162,7 +162,9 @@
         <mark key="]" line="44" column="65" />
         <mark key="." line="44" column="65" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/sauce_create.html" timestamp="1540557686638" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/sauce_create.html" timestamp="1540718321196">
+        <mark key="'" line="19" column="8" />
+      </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/sauce.html" timestamp="1540467026878">
         <mark key="]" line="8" column="67" />
         <mark key="." line="8" column="67" />
@@ -179,8 +181,8 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1539246660532">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1540546474391">
-        <mark key="[" line="39" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1540716781096">
+        <mark key="[" line="50" column="0" />
         <mark key="]" line="28" column="20" />
         <mark key="." line="28" column="20" />
       </file>
@@ -245,6 +247,7 @@
       <jump line="25" column="30" filename="$USER_HOME$/Dev/mysite/products/views.py" />
       <jump line="47" column="4" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
       <jump line="19" column="24" filename="$USER_HOME$/Dev/mysite/products/views.py" />
+      <jump line="19" column="8" filename="$USER_HOME$/Dev/mysite/products/templates/products/sauce_create.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -254,7 +257,7 @@
         <text>object_list</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmludFw+</text>
+        <text encoding="base64">XDx2YXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>rogramming, Teaching, Entrepreneurship</text>
@@ -288,9 +291,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmludFw+</last-search>
+      <last-search encoding="base64">XDx2YXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmludFw+</last-pattern>
+      <last-pattern encoding="base64">XDx2YXJcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -307,6 +310,7 @@
         <entry encoding="base64">XDxbXD4=</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
+        <entry encoding="base64">XDx2YXJcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
