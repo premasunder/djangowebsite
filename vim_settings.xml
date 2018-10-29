@@ -381,9 +381,9 @@
         <mark key="]" line="35" column="5" />
         <mark key="." line="35" column="5" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1540825710142">
-        <mark key="'" line="99" column="4" />
-        <mark key="[" line="98" column="4" />
+      <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1540826851858">
+        <mark key="'" line="100" column="4" />
+        <mark key="[" line="77" column="29" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1539595664076">
         <mark key="[" line="51" column="29" />
