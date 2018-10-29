@@ -143,8 +143,8 @@
       <file name="$USER_HOME$/Dev/mysite/Procfile" timestamp="1539071883555">
         <mark key="[" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1540396935859">
-        <mark key="[" line="65" column="75" />
+      <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1540820965280">
+        <mark key="[" line="50" column="41" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/marketing/views.py" timestamp="1539863496609">
         <mark key="[" line="22" column="37" />
@@ -208,8 +208,10 @@
         <mark key="]" line="90" column="39" />
         <mark key="." line="90" column="39" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1540807184124">
-        <mark key="[" line="22" column="83" />
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1540822306071">
+        <mark key="[" line="21" column="157" />
+        <mark key="]" line="21" column="158" />
+        <mark key="." line="21" column="158" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/accounts/forms.py" timestamp="1539864280069">
         <mark key="[" line="98" column="56" />
@@ -293,9 +295,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/500.html" timestamp="1537804190836">
         <mark key="[" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1540808337104">
-        <mark key="'" line="47" column="4" />
-        <mark key="[" line="44" column="15" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1540821947085">
+        <mark key="[" line="42" column="15" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/footer.css" timestamp="1538903479863">
         <mark key="[" line="9" column="26" />
@@ -434,6 +435,7 @@
       <jump line="47" column="4" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
       <jump line="19" column="24" filename="$USER_HOME$/Dev/mysite/products/views.py" />
       <jump line="19" column="8" filename="$USER_HOME$/Dev/mysite/products/templates/products/sauce_create.html" />
+      <jump line="38" column="4" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -443,7 +445,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YXJcPg==</text>
+        <text encoding="base64">XDxzYXVjZVw+</text>
       </register>
       <register name="0" type="4">
         <text>rogramming, Teaching, Entrepreneurship</text>
@@ -477,9 +479,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YXJcPg==</last-search>
+      <last-search encoding="base64">XDxzYXVjZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzYXVjZVw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -497,6 +499,7 @@
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
         <entry encoding="base64">XDx2YXJcPg==</entry>
+        <entry encoding="base64">XDxzYXVjZVw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
