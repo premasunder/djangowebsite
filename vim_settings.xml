@@ -104,7 +104,7 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/mixins.py" timestamp="1537523892149">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1541084843194">
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1541150674449">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/auth/register.html" timestamp="1538466941505">
@@ -297,10 +297,10 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/500.html" timestamp="1537804190836">
         <mark key="[" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1541149040018">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="31" />
-        <mark key="." line="67" column="31" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1541150698886">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="31" />
+        <mark key="." line="62" column="31" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/footer.css" timestamp="1538903479863">
         <mark key="[" line="9" column="26" />
@@ -376,10 +376,10 @@
       <file name="$USER_HOME$/Dev/mysite/addresses/forms.py" timestamp="1540451033064">
         <mark key="[" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/templates/base/js.html" timestamp="1539674173417">
-        <mark key="[" line="35" column="5" />
-        <mark key="]" line="35" column="5" />
-        <mark key="." line="35" column="5" />
+      <file name="$USER_HOME$/Dev/mysite/templates/base/js.html" timestamp="1541150594685">
+        <mark key="[" line="34" column="5" />
+        <mark key="]" line="34" column="5" />
+        <mark key="." line="34" column="5" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1540920065442">
         <mark key="'" line="100" column="4" />
