@@ -104,8 +104,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/mixins.py" timestamp="1537523892149">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1541150674449">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1541354670231">
+        <mark key="[" line="226" column="74" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/auth/register.html" timestamp="1538466941505">
         <mark key="[" line="0" column="0" />
@@ -210,7 +210,7 @@
         <mark key="]" line="42" column="39" />
         <mark key="." line="42" column="39" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1541320895111">
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1541352417413">
         <mark key="[" line="22" column="83" />
         <mark key="]" line="21" column="158" />
         <mark key="." line="21" column="158" />
