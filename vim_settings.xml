@@ -203,8 +203,8 @@
         <mark key="]" line="729" column="0" />
         <mark key="." line="729" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/checkout.html" timestamp="1541148098477">
-        <mark key="[" line="69" column="51" />
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/checkout.html" timestamp="1541676537516">
+        <mark key="[" line="73" column="10" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base.html" timestamp="1538136723953">
         <mark key="[" line="4" column="15" />
@@ -300,9 +300,9 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/500.html" timestamp="1537804190836">
         <mark key="[" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1541585612592">
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1541676090881">
         <mark key="'" line="27" column="43" />
-        <mark key="[" line="35" column="42" />
+        <mark key="[" line="97" column="0" />
         <mark key="]" line="35" column="43" />
         <mark key="." line="35" column="43" />
       </file>
@@ -311,8 +311,8 @@
         <mark key="]" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1541671254604">
-        <mark key="[" line="4" column="74" />
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1541675680919">
+        <mark key="[" line="12" column="6" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/orders/templates/orders/order_detail.html" timestamp="1538033946286">
         <mark key="[" line="14" column="0" />
