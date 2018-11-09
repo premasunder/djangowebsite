@@ -89,10 +89,10 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/models.py" timestamp="1538237867601">
         <mark key="[" line="143" column="40" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1541680131598">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="2" />
-        <mark key="." line="3" column="2" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1541750854460">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="5" column="2" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/navbar.html" timestamp="1538215986102">
         <mark key="[" line="31" column="43" />
@@ -106,7 +106,7 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/mixins.py" timestamp="1537523892149">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1541686109443">
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1541749712660">
         <mark key="[" line="211" column="12" />
         <mark key="]" line="219" column="142" />
         <mark key="." line="219" column="142" />
@@ -237,8 +237,10 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/accounts/migrations/0001_initial.py" timestamp="1538235704751">
         <mark key="[" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/card1.html" timestamp="1541680037901">
-        <mark key="[" line="2" column="87" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/card1.html" timestamp="1541751578839">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/views.py" timestamp="1538979832397">
         <mark key="[" line="28" column="33" />
