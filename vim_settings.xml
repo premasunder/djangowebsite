@@ -89,8 +89,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/models.py" timestamp="1538237867601">
         <mark key="[" line="143" column="40" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1541948736776">
-        <mark key="[" line="9" column="83" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1541955059589">
+        <mark key="[" line="4" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/navbar.html" timestamp="1538215986102">
         <mark key="[" line="31" column="43" />
@@ -154,8 +154,8 @@
       <file name="$USER_HOME$/Dev/mysite/Procfile" timestamp="1539071883555">
         <mark key="[" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1541950282871">
-        <mark key="[" line="55" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1541956758729">
+        <mark key="[" line="55" column="25" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/marketing/views.py" timestamp="1539863496609">
         <mark key="[" line="22" column="37" />
@@ -204,7 +204,7 @@
         <mark key="]" line="45" column="41" />
         <mark key="." line="45" column="41" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1541948788251">
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1541954220327">
         <mark key="[" line="21" column="73" />
         <mark key="]" line="21" column="158" />
         <mark key="." line="21" column="158" />
@@ -293,7 +293,7 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/500.html" timestamp="1537804190836">
         <mark key="[" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1541946510162">
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1541955820439">
         <mark key="'" line="27" column="43" />
         <mark key="[" line="59" column="43" />
         <mark key="]" line="35" column="43" />
@@ -357,9 +357,11 @@
       <file name="$USER_HOME$/Dev/mysite/addresses/forms.py" timestamp="1540451033064">
         <mark key="[" line="15" column="12" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1541862052177">
-        <mark key="'" line="109" column="4" />
-        <mark key="[" line="82" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1541956538391">
+        <mark key="'" line="108" column="4" />
+        <mark key="[" line="80" column="4" />
+        <mark key="]" line="80" column="25" />
+        <mark key="." line="80" column="4" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1541068391190">
         <mark key="[" line="51" column="29" />
@@ -422,16 +424,17 @@
       <jump line="99" column="4" filename="$USER_HOME$/Dev/mysite/products/models.py" />
       <jump line="27" column="43" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
       <jump line="219" column="48" filename="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" />
+      <jump line="57" column="12" filename="$USER_HOME$/Dev/mysite/carts/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGltZyBzcmM9Ii9pbWcuanBnIi8+</text>
+        <text>categories</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGltZyBzcmM9Ii9pbWcuanBnIi8+</text>
+        <text>categories</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXVjZVw+</text>
+        <text encoding="base64">XDxwcmludFw+</text>
       </register>
       <register name="0" type="4">
         <text>rogramming, Teaching, Entrepreneurship</text>
@@ -467,9 +470,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXVjZVw+</last-search>
+      <last-search encoding="base64">XDxwcmludFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXVjZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcmludFw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -485,9 +488,9 @@
         <entry encoding="base64">XDxndWVzdF9lbWFpbF9pZFw+</entry>
         <entry encoding="base64">XDxbXD4=</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
-        <entry encoding="base64">XDxwcmludFw+</entry>
         <entry encoding="base64">XDx2YXJcPg==</entry>
         <entry encoding="base64">XDxzYXVjZVw+</entry>
+        <entry encoding="base64">XDxwcmludFw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
