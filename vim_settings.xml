@@ -127,8 +127,8 @@
       <file name="$USER_HOME$/Dev/mysite/products/fixtures/products.json" timestamp="1540825238434">
         <mark key="[" line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-product.html" timestamp="1542024411748">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-product.html" timestamp="1542031180070">
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/Procfile" timestamp="1537688007460">
         <mark key="[" line="0" column="0" />
@@ -204,8 +204,8 @@
         <mark key="]" line="45" column="41" />
         <mark key="." line="45" column="41" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1542023761493">
-        <mark key="[" line="27" column="90" />
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1542031411069">
+        <mark key="[" line="23" column="32" />
         <mark key="]" line="21" column="158" />
         <mark key="." line="21" column="158" />
       </file>
