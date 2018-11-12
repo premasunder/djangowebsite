@@ -293,8 +293,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/500.html" timestamp="1537804190836">
         <mark key="[" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1541957732071">
-        <mark key="'" line="27" column="43" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1542008080175">
+        <mark key="'" line="94" column="39" />
         <mark key="[" line="59" column="43" />
         <mark key="]" line="35" column="43" />
         <mark key="." line="35" column="43" />
@@ -425,6 +425,7 @@
       <jump line="27" column="43" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
       <jump line="219" column="48" filename="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" />
       <jump line="57" column="12" filename="$USER_HOME$/Dev/mysite/carts/models.py" />
+      <jump line="95" column="39" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
