@@ -104,10 +104,9 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/mixins.py" timestamp="1537523892149">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1542102490183">
-        <mark key="[" line="137" column="103" />
-        <mark key="]" line="189" column="142" />
-        <mark key="." line="189" column="142" />
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1542110951036">
+        <mark key="]" line="187" column="142" />
+        <mark key="." line="187" column="142" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/auth/register.html" timestamp="1538466941505">
         <mark key="[" line="0" column="0" />
@@ -293,9 +292,9 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/500.html" timestamp="1537804190836">
         <mark key="[" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1542103477418">
-        <mark key="'" line="113" column="39" />
-        <mark key="[" line="76" column="43" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1542111002411">
+        <mark key="'" line="115" column="39" />
+        <mark key="[" line="77" column="43" />
         <mark key="]" line="41" column="43" />
         <mark key="." line="41" column="43" />
       </file>
