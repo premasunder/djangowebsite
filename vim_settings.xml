@@ -89,7 +89,7 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/products/models.py" timestamp="1538237867601">
         <mark key="[" line="143" column="40" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1542115635753">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1542130407916">
         <mark key="[" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/base/navbar.html" timestamp="1538215986102">
@@ -104,7 +104,7 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/marketing/mixins.py" timestamp="1537523892149">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1542114245353">
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1542130776206">
         <mark key="'" line="187" column="118" />
         <mark key="]" line="187" column="142" />
         <mark key="." line="187" column="142" />
@@ -293,8 +293,8 @@
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/templates/500.html" timestamp="1537804190836">
         <mark key="[" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1542116104388">
-        <mark key="'" line="109" column="39" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1542132538015">
+        <mark key="'" line="121" column="39" />
         <mark key="[" line="77" column="43" />
         <mark key="]" line="41" column="43" />
         <mark key="." line="41" column="43" />
@@ -304,7 +304,9 @@
         <mark key="]" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1542112115658" />
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1542131261520">
+        <mark key="[" line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/Desktop/shopenv/shopenvnew/ecommerce/orders/templates/orders/order_detail.html" timestamp="1538033946286">
         <mark key="[" line="14" column="0" />
       </file>
