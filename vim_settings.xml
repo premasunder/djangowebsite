@@ -12,9 +12,9 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1542304912540">
         <mark key="[" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1542309333891">
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1542359927667">
         <mark key="'" line="184" column="118" />
-        <mark key="[" line="207" column="0" />
+        <mark key="[" line="184" column="127" />
         <mark key="]" line="184" column="142" />
         <mark key="." line="184" column="142" />
       </file>
@@ -39,13 +39,10 @@
         <mark key="]" line="45" column="41" />
         <mark key="." line="45" column="41" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1542287215303">
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1542358240512">
         <mark key="[" line="39" column="23" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/card1.html" timestamp="1542309679577">
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-      </file>
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/card1.html" timestamp="1542360413220" />
       <file name="$USER_HOME$/Dev/mysite/carts/forms.py" timestamp="1542289331628">
         <mark key="[" line="10" column="28" />
       </file>
@@ -63,7 +60,8 @@
         <mark key="]" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1542309623685">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1542359733559">
+        <mark key="[" line="10" column="8" />
         <mark key="]" line="31" column="20" />
         <mark key="." line="31" column="20" />
       </file>
