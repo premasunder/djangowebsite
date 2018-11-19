@@ -42,15 +42,15 @@
         <mark key="]" line="45" column="41" />
         <mark key="." line="45" column="41" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1542634944589">
-        <mark key="[" line="61" column="10" />
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1542635651294">
+        <mark key="[" line="62" column="10" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/card1.html" timestamp="1542614190534" />
       <file name="$USER_HOME$/Dev/mysite/carts/forms.py" timestamp="1542617965201">
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1542630879547">
-        <mark key="[" line="34" column="5" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1542636267756">
+        <mark key="[" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1542275915001">
         <mark key="[" line="3" column="6" />
