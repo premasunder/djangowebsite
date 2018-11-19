@@ -12,11 +12,11 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1542304912540">
         <mark key="[" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1542359927667">
-        <mark key="'" line="184" column="118" />
-        <mark key="[" line="184" column="127" />
-        <mark key="]" line="184" column="142" />
-        <mark key="." line="184" column="142" />
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1542629405575">
+        <mark key="'" line="177" column="118" />
+        <mark key="[" line="177" column="127" />
+        <mark key="]" line="177" column="142" />
+        <mark key="." line="177" column="142" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-deliverytime.html" timestamp="1542625214434">
         <mark key="[" line="5" column="0" />
