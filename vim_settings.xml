@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/mysite/addresses/models.py" timestamp="1542216752001">
-        <mark key="[" line="5" column="36" />
+      <file name="$USER_HOME$/Dev/mysite/addresses/models.py" timestamp="1542615806867">
+        <mark key="[" line="15" column="76" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/admin.py" timestamp="1541861469889">
         <mark key="[" line="2" column="43" />
@@ -65,8 +65,8 @@
         <mark key="]" line="31" column="20" />
         <mark key="." line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/addresses/forms.py" timestamp="1542217279501">
-        <mark key="[" line="15" column="12" />
+      <file name="$USER_HOME$/Dev/mysite/addresses/forms.py" timestamp="1542615481340">
+        <mark key="[" line="18" column="28" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1542290194902">
         <mark key="'" line="108" column="4" />
