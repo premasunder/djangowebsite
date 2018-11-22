@@ -47,7 +47,7 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1542889728465">
         <mark key="[" line="26" column="78" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/card1.html" timestamp="1542906680435">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/card1.html" timestamp="1542908448047">
         <mark key="[" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/base.html" timestamp="1542875065613">
@@ -62,10 +62,10 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1542886668012">
         <mark key="[" line="4" column="93" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-comment.html" timestamp="1542905667578">
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-comment.html" timestamp="1542908204236">
         <mark key="[" line="4" column="65" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1542893586032">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1542908532454">
         <mark key="[" line="39" column="78" />
         <mark key="]" line="32" column="20" />
         <mark key="." line="32" column="20" />
