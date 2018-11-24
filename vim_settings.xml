@@ -36,9 +36,7 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/allergyinfo.html" timestamp="1542911862913">
         <mark key="[" line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/checkout.html" timestamp="1543066802881">
-        <mark key="[" line="78" column="58" />
-      </file>
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/checkout.html" timestamp="1543082873755" />
       <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1542871473812">
         <mark key="[" line="46" column="8" />
         <mark key="]" line="45" column="41" />
