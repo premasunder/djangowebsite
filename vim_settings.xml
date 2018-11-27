@@ -16,9 +16,11 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/allergyinfo.html" timestamp="1542911862913">
         <mark key="[" line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1543308000341">
-        <mark key="'" line="242" column="37" />
-        <mark key="[" line="5" column="35" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1543311385864">
+        <mark key="'" line="243" column="37" />
+        <mark key="[" line="308" column="9" />
+        <mark key="]" line="308" column="9" />
+        <mark key="." line="308" column="9" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/footer.css" timestamp="1538903479863">
         <mark key="[" line="9" column="26" />
@@ -36,7 +38,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/checkout.html" timestamp="1543245650634">
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/checkout.html" timestamp="1543310379268">
         <mark key="[" line="10" column="32" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-deliverytime.html" timestamp="1542701149988">
@@ -100,7 +102,7 @@
         <mark key="]" line="80" column="25" />
         <mark key="." line="80" column="4" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1543307922329" />
+      <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1543309932968" />
       <file name="$USER_HOME$/Dev/mysite/products/forms.py" timestamp="1542271709228">
         <mark key="[" line="2" column="24" />
       </file>
@@ -163,11 +165,11 @@
       <jump line="237" column="37" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0nc3VibWl0JyBpZD0ic3VibWl0QnV0dG9uIiBjbGFzcz0nYnRuIGJ0bi1zdWNjZXNzIGJ0bi1zbScgPkVudGVyIFBvc3RhbGNvZGU8L2J1dHRvbj4K</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>postalcode = request.POST.get('postalcode')</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludFw+</text>
