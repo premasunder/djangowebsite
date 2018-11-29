@@ -16,9 +16,9 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/allergyinfo.html" timestamp="1542911862913">
         <mark key="[" line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1543422812205">
-        <mark key="'" line="256" column="37" />
-        <mark key="[" line="90" column="61" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1543486059039">
+        <mark key="'" line="166" column="28" />
+        <mark key="[" line="89" column="61" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/footer.css" timestamp="1538903479863">
         <mark key="[" line="9" column="26" />
@@ -48,8 +48,8 @@
         <mark key="]" line="45" column="41" />
         <mark key="." line="45" column="41" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1543407798229">
-        <mark key="[" line="48" column="59" />
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1543480678018">
+        <mark key="[" line="23" column="36" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/accounts/forms.py" timestamp="1543165622394">
         <mark key="[" line="98" column="56" />
@@ -81,8 +81,8 @@
       <file name="$USER_HOME$/Dev/mysite/products/admin.py" timestamp="1541861469889">
         <mark key="[" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1543408481442">
-        <mark key="[" line="52" column="71" />
+      <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1543478129026">
+        <mark key="[" line="93" column="44" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/base.html" timestamp="1542875065613">
         <mark key="[" line="10" column="56" />
@@ -162,6 +162,7 @@
       <jump line="187" column="118" filename="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" />
       <jump line="73" column="39" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
       <jump line="237" column="37" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
+      <jump line="167" column="28" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
