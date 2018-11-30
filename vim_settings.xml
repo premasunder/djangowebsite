@@ -114,6 +114,9 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1543056488607">
         <mark key="[" line="9" column="76" />
       </file>
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/main.css" timestamp="1543571842304">
+        <mark key="[" line="5" column="13" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="37" column="4" filename="$USER_HOME$/djangowebsite/myvenv/myproject/myproject/urls.py" />
