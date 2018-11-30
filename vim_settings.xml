@@ -16,9 +16,9 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/allergyinfo.html" timestamp="1542911862913">
         <mark key="[" line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1543568609668">
-        <mark key="'" line="166" column="28" />
-        <mark key="[" line="254" column="35" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1543596266869">
+        <mark key="'" line="326" column="16" />
+        <mark key="[" line="306" column="52" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/footer.css" timestamp="1538903479863">
         <mark key="[" line="9" column="26" />
@@ -166,6 +166,7 @@
       <jump line="73" column="39" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
       <jump line="237" column="37" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
       <jump line="167" column="28" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
+      <jump line="325" column="16" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -175,7 +176,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmludFw+</text>
+        <text encoding="base64">XDx0b19saXN0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>rogramming, Teaching, Entrepreneurship</text>
@@ -211,9 +212,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmludFw+</last-search>
+      <last-search encoding="base64">XDx0b19saXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmludFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0b19saXN0XD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -232,6 +233,7 @@
         <entry encoding="base64">XDx2YXJcPg==</entry>
         <entry encoding="base64">XDxzYXVjZVw+</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
+        <entry encoding="base64">XDx0b19saXN0XD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
