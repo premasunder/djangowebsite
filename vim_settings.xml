@@ -68,7 +68,7 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1543844327342">
         <mark key="[" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/main.css" timestamp="1543837505940">
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/main.css" timestamp="1543918117324">
         <mark key="[" line="12" column="12" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1543766584622">
@@ -88,8 +88,8 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-product.html" timestamp="1542272508341">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/templates/base/navbar.html" timestamp="1543761440044">
-        <mark key="[" line="27" column="54" />
+      <file name="$USER_HOME$/Dev/mysite/templates/base/navbar.html" timestamp="1543918162251">
+        <mark key="[" line="56" column="176" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/admin.py" timestamp="1541876961817">
         <mark key="[" line="11" column="25" />
