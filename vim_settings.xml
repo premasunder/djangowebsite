@@ -50,8 +50,12 @@
       <file name="$USER_HOME$/Dev/mysite/addresses/templates/addresses/update.html" timestamp="1543843296015">
         <mark key="[" line="14" column="50" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/templates/base.html" timestamp="1544174505007">
-        <mark key="[" line="10" column="66" />
+      <file name="$USER_HOME$/Dev/mysite/templates/base.html" timestamp="1544193961192" />
+      <file name="$USER_HOME$/Dev/mysite/carts/forms.py" timestamp="1543840468291">
+        <mark key="'" line="13" column="57" />
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="30" column="16" />
+        <mark key="." line="30" column="4" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/addresses/templates/addresses/prev_addresses.html" timestamp="1543842140249">
         <mark key="[" line="16" column="67" />
@@ -65,9 +69,11 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/main.css" timestamp="1543918117324">
         <mark key="[" line="12" column="12" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1544193190319">
-        <mark key="'" line="327" column="16" />
-        <mark key="[" line="254" column="5" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1544194824102">
+        <mark key="'" line="326" column="16" />
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="260" column="0" />
+        <mark key="." line="260" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1543766584622">
         <mark key="[" line="5" column="51" />
@@ -75,7 +81,7 @@
       <file name="$USER_HOME$/Dev/mysite/addresses/templates/addresses/form.html" timestamp="1543841277861">
         <mark key="[" line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-comment.html" timestamp="1544180547762">
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-comment.html" timestamp="1544194021816">
         <mark key="[" line="35" column="25" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -105,6 +111,12 @@
       </file>
       <file name="$USER_HOME$/Dev/mysite/addresses/forms.py" timestamp="1543842100820">
         <mark key="[" line="22" column="8" />
+      </file>
+      <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1543672753724">
+        <mark key="'" line="108" column="4" />
+        <mark key="[" line="104" column="39" />
+        <mark key="]" line="80" column="25" />
+        <mark key="." line="80" column="4" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1544179815277">
         <mark key="[" line="114" column="43" />
@@ -177,8 +189,8 @@
       <jump line="14" column="57" filename="$USER_HOME$/Dev/mysite/carts/forms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlcy5pbmZvKHJlcXVlc3QsICdQb3N0bGVpdHphaGwgZWluZ2ViZW4gdW5kIExpZWZlcmdlYmlldCBwcsO8ZmVuLicpCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -190,33 +202,33 @@
         <text>rogramming, Teaching, Entrepreneurship</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlcy5pbmZvKHJlcXVlc3QsICdQb3N0bGVpdHphaGwgZWluZ2ViZW4gdW5kIExpZWZlcmdlYmlldCBwcsO8ZmVuLicpCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0nc3VibWl0JyBpZD0ic3VibWl0QnV0dG9uIiBjbGFzcz0nYnRuIGJ0bi1zdWNjZXNzIGJ0bi1zbScgPkVudGVyIFBvc3RhbGNvZGU8L2J1dHRvbj4K</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">c2F1Y2UgfQogICAgICAgIHZhciBoaWRkZW5DYXJ0SXRlbVJlbW92ZUZvcm0gPSAkKCIuY2FydC1pdGVtLXJlbW92ZS1mb3JtIikKICAgICAgICBpZiAoZGF0YS5wcm9kdWN0cy5sZW5ndGggPiAwKXsKICAgICAgICAgICAgcHJvZHVjdFJvd3MuaHRtbCgiICIpCiAgICAgICAgICAgIGkgPSBkYXRhLnByb2R1Y3RzLmxlbmd0aAoKICAgICAgICAgICAgJC5lYWNoKGRhdGEucHJvZHVjdHMsIGZ1bmN0aW9uKGluZGV4LCB2YWx1ZSl7CiAgICAgICAgICAgICAgdmFyIG5ld0NhcnRJdGVtUmVtb3ZlID0gaGlkZGVuQ2FydEl0ZW1SZW1vdmVGb3JtLmNsb25lKCkKICAgICAgICAgICAgICBuZXdDYXJ0SXRlbVJlbW92ZS5jc3MoImRpc3BsYXkiLCAiYmxvY2siKQogICAgICAgICAgICAgIG5ld0NhcnRJdGVtUmVtb3ZlLmZpbmQoIi5jYXJ0LWl0ZW0tcHJvZHVjdC1pZCIpLnZhbCh2YWx1ZS5pZCkKICAgICAgICAgICAgICBjb25zb2xlLmxvZyhuZXdDYXJ0SXRlbVJlbW92ZS50</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>f sauce_id is not None:
                 cart_obj.sauce.clear()
                 sauce_obj = Sauce.objects.get(id=sauce_id)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBmb3IgdGVzdCBpbiBQcm9kdWN0LlNhdWNlLmFsbCAlfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDwvZGl2Pjxici8+Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">PGgyPlRoaXMgaXMgcHJvZHVjdCBsaXN0IHBhZ2U8L2gyPgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNhdGVnb3J5ID0gZ2V0X29iamVjdF9vcl80MDQoQ2F0ZWdvcnksIHNsdWc9c2x1KQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhdGVnb3J5ID0gZ2V0X29iamVjdF9vcl80MDQoQ2F0ZWdvcnksIHNsdWc9c2x1ZykK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48cCBjbGFzcz0idGV4dC1zdWNjZXNzIj5QYW5pZXJ0ZXMgU2Nod2VpbmVzY2huaXR6ZWwgPC9wPjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgIGNhdGVnb3J5ID0gZ2V0X29iamVjdF9vcl80MDQoQ2F0ZWdvcnksIHNsdWc9c2x1ZykK</text>
       </register>
     </registers>
     <search>
