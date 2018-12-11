@@ -14,8 +14,8 @@
       <file name="$USER_HOME$/Dev/mysite/templates/base/footer.html" timestamp="1544428767402">
         <mark key="[" line="39" column="31" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/aws/conf.py" timestamp="1544522266977">
-        <mark key="[" line="22" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/mysite/aws/conf.py" timestamp="1544546128284">
+        <mark key="[" line="14" column="40" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/allergyinfo.html" timestamp="1544175493494">
         <mark key="[" line="18" column="33" />
@@ -134,8 +134,8 @@
         <mark key="[" line="5" column="55" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1544447292755" />
-      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1544521218566">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1544545991166">
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1544376935942">
         <mark key="[" line="107" column="122" />
