@@ -23,9 +23,9 @@
       <file name="$USER_HOME$/Dev/mysite/search/templates/search/view.html" timestamp="1543839438687">
         <mark key="[" line="24" column="65" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1544377452806">
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1544514942127">
         <mark key="'" line="286" column="31" />
-        <mark key="[" line="91" column="3" />
+        <mark key="[" line="325" column="13" />
         <mark key="]" line="126" column="16" />
         <mark key="." line="126" column="16" />
       </file>
@@ -95,6 +95,9 @@
         <mark key="[" line="5" column="55" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1544447292755" />
+      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1544514877016">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/views.py" timestamp="1544292605150">
         <mark key="[" line="19" column="14" />
       </file>
