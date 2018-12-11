@@ -14,7 +14,7 @@
       <file name="$USER_HOME$/Dev/mysite/templates/base/footer.html" timestamp="1544428767402">
         <mark key="[" line="39" column="31" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/aws/conf.py" timestamp="1544550506008">
+      <file name="$USER_HOME$/Dev/mysite/mysite/aws/conf.py" timestamp="1544554645126">
         <mark key="[" line="15" column="31" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/allergyinfo.html" timestamp="1544175493494">
@@ -137,8 +137,11 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/checkout-done.html" timestamp="1543844066621">
         <mark key="[" line="5" column="55" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1544447292755" />
-      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1544550391730">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1544554955659">
+        <mark key="[" line="33" column="12" />
+      </file>
+      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1544555444309">
+        <mark key="'" line="4" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1544376935942">
@@ -218,6 +221,7 @@
       <jump line="14" column="57" filename="$USER_HOME$/Dev/mysite/carts/forms.py" />
       <jump line="270" column="31" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Dev/mysite/mysite/aws/utils.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -227,7 +231,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNZWRpYVJvb3RTM0JvdG9TdG9yYWdlXD4=</text>
+        <text encoding="base64">XDxmcm9tXD4=</text>
       </register>
       <register name="0" type="4">
         <text>rogramming, Teaching, Entrepreneurship</text>
@@ -263,9 +267,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNZWRpYVJvb3RTM0JvdG9TdG9yYWdlXD4=</last-search>
+      <last-search encoding="base64">XDxmcm9tXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNZWRpYVJvb3RTM0JvdG9TdG9yYWdlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmcm9tXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -274,7 +278,6 @@
         <entry encoding="base64">XDx3ZWJhcHBcPg==</entry>
         <entry encoding="base64">XDxsaW5rXD4=</entry>
         <entry encoding="base64">XDxkZWZcPg==</entry>
-        <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry encoding="base64">XDxpbWdcPg==</entry>
         <entry encoding="base64">XDxsb2dpbl9mb3JtXD4=</entry>
         <entry encoding="base64">XDxmb290ZXJcPg==</entry>
@@ -286,6 +289,7 @@
         <entry encoding="base64">XDxwcmludFw+</entry>
         <entry encoding="base64">XDx0b19saXN0XD4=</entry>
         <entry encoding="base64">XDxNZWRpYVJvb3RTM0JvdG9TdG9yYWdlXD4=</entry>
+        <entry encoding="base64">XDxmcm9tXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
