@@ -9,10 +9,6 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/aws/conf.py" timestamp="1544554645126">
         <mark key="[" line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/aws/utils.py" timestamp="1544550091029">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="65" />
-      </file>
       <file name="$USER_HOME$/Dev/mysite/addresses/models.py" timestamp="1544378504371">
         <mark key="[" line="40" column="74" />
       </file>
@@ -22,8 +18,8 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1544380116218">
         <mark key="[" line="46" column="18" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/testscript.js" timestamp="1544698494505">
-        <mark key="y" line="47" column="11" />
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/testscript.js" timestamp="1544704005665">
+        <mark key="y" line="51" column="11" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/views.py" timestamp="1544604605103">
         <mark key="[" line="23" column="35" />
@@ -34,8 +30,8 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/internallink.js" timestamp="1544631592367">
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/main.css" timestamp="1544379264154">
-        <mark key="[" line="12" column="12" />
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/main.css" timestamp="1544704242922">
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1544605164409">
         <mark key="[" line="189" column="57" />
@@ -74,11 +70,12 @@
       <file name="$USER_HOME$/Dev/mysite/templates/base/js.html" timestamp="1544631705222">
         <mark key="[" line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/teststyle.css" timestamp="1544704198056" />
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1544635325203">
         <mark key="[" line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/templates/testindex.html" timestamp="1544698465078">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/templates/testindex.html" timestamp="1544703813093">
+        <mark key="[" line="25" column="42" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/home_page.html" timestamp="1544636240508">
         <mark key="[" line="13" column="50" />
