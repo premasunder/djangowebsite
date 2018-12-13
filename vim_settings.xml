@@ -22,9 +22,7 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1544380116218">
         <mark key="[" line="46" column="18" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/testscript.js" timestamp="1544637526474">
-        <mark key="[" line="0" column="17" />
-      </file>
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/testscript.js" timestamp="1544688115896" />
       <file name="$USER_HOME$/Dev/mysite/mysite/views.py" timestamp="1544604605103">
         <mark key="[" line="23" column="35" />
       </file>
@@ -77,7 +75,9 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1544635325203">
         <mark key="[" line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/templates/testindex.html" timestamp="1544615414726" />
+      <file name="$USER_HOME$/Dev/mysite/templates/testindex.html" timestamp="1544686249391">
+        <mark key="[" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/mysite/templates/home_page.html" timestamp="1544636240508">
         <mark key="[" line="13" column="50" />
       </file>
