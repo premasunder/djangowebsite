@@ -32,8 +32,8 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/internallink.js" timestamp="1544631592367">
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/main.css" timestamp="1544704242922">
-        <mark key="[" line="18" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/main.css" timestamp="1544777751103">
+        <mark key="[" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1544605164409">
         <mark key="[" line="189" column="57" />
@@ -59,9 +59,9 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1544722082176">
         <mark key="[" line="9" column="65" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1544775854719">
+      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1544777568511">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="1" />
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1544376935942">
         <mark key="[" line="107" column="122" />
