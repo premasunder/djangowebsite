@@ -18,10 +18,11 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1544380116218">
         <mark key="[" line="46" column="18" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/testscript.js" timestamp="1544720849963">
-        <mark key="y" line="165" column="11" />
-        <mark key="]" line="109" column="7" />
-        <mark key="." line="109" column="7" />
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/testscript.js" timestamp="1544782535326">
+        <mark key="y" line="182" column="11" />
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="126" column="7" />
+        <mark key="." line="126" column="7" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/views.py" timestamp="1544604605103">
         <mark key="[" line="23" column="35" />
@@ -74,8 +75,8 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1544719924495">
         <mark key="[" line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/templates/testindex.html" timestamp="1544703813093">
-        <mark key="[" line="25" column="42" />
+      <file name="$USER_HOME$/Dev/mysite/templates/testindex.html" timestamp="1544782229126">
+        <mark key="[" line="19" column="44" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/home_page.html" timestamp="1544774172031">
         <mark key="[" line="14" column="59" />
