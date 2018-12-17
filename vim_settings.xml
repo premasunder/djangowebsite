@@ -6,11 +6,6 @@
       <file name="$USER_HOME$/Dev/mysite/accounts/templates/accounts/snippets/form.html" timestamp="1544198981767">
         <mark key="[" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/templates/impressum.html" timestamp="1544435563573">
-        <mark key="[" line="15" column="47" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Dev/mysite/templates/base/footer.html" timestamp="1544428767402">
         <mark key="[" line="39" column="31" />
       </file>
@@ -111,7 +106,7 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/send-order.html" timestamp="1544378813160">
         <mark key="[" line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-comment.html" timestamp="1545033484207">
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-comment.html" timestamp="1545034241159">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
