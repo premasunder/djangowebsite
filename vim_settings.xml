@@ -36,7 +36,7 @@
       <file name="$USER_HOME$/Dev/mysite/templates/base/css.html" timestamp="1543742627397">
         <mark key="[" line="6" column="113" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1545395502605">
+      <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1545398897380">
         <mark key="[" line="34" column="35" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1545072339878">
@@ -129,9 +129,11 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1544602970601">
         <mark key="[" line="38" column="66" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1545395994592">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1545398415037">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="23" column="37" />
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="27" />
+        <mark key="." line="23" column="27" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-product.html" timestamp="1542272508341">
         <mark key="[" line="2" column="23" />
@@ -148,7 +150,7 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/checkout-done.html" timestamp="1543844066621">
         <mark key="[" line="5" column="55" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1545384409833">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1545397398811">
         <mark key="[" line="6" column="30" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1545211440949">
@@ -160,9 +162,6 @@
       </file>
       <file name="$USER_HOME$/Dev/mysite/addresses/forms.py" timestamp="1544378359458">
         <mark key="[" line="41" column="27" />
-      </file>
-      <file name="$USER_HOME$/Dev/mysite/templates/base/js.html" timestamp="1544631705222">
-        <mark key="[" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1545072148844">
         <mark key="[" line="159" column="0" />
@@ -259,10 +258,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>obj.Children.all</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>obj.Children.all</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
