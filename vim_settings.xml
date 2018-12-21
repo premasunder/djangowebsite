@@ -36,7 +36,7 @@
       <file name="$USER_HOME$/Dev/mysite/templates/base/css.html" timestamp="1543742627397">
         <mark key="[" line="6" column="113" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1545385427278">
+      <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1545395502605">
         <mark key="[" line="34" column="35" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1545072339878">
@@ -129,6 +129,10 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1544602970601">
         <mark key="[" line="38" column="66" />
       </file>
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1545395994592">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="23" column="37" />
+      </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-product.html" timestamp="1542272508341">
         <mark key="[" line="2" column="23" />
       </file>
@@ -157,13 +161,16 @@
       <file name="$USER_HOME$/Dev/mysite/addresses/forms.py" timestamp="1544378359458">
         <mark key="[" line="41" column="27" />
       </file>
+      <file name="$USER_HOME$/Dev/mysite/templates/base/js.html" timestamp="1544631705222">
+        <mark key="[" line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1545072148844">
         <mark key="[" line="159" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/accounts/templates/accounts/register.html" timestamp="1543759372921">
         <mark key="[" line="6" column="58" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1545386730287">
+      <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1545395883459">
         <mark key="[" line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/testindex.html" timestamp="1544782229126">
@@ -247,6 +254,8 @@
       <jump line="270" column="31" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
       <jump line="3" column="0" filename="$USER_HOME$/Dev/mysite/mysite/aws/utils.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" />
+      <jump line="24" column="16" filename="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
