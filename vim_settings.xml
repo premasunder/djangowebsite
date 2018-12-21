@@ -36,8 +36,8 @@
       <file name="$USER_HOME$/Dev/mysite/templates/base/css.html" timestamp="1543742627397">
         <mark key="[" line="6" column="113" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1545383000329">
-        <mark key="[" line="37" column="40" />
+      <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1545385427278">
+        <mark key="[" line="34" column="35" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1545072339878">
         <mark key="[" line="29" column="10" />
@@ -90,14 +90,16 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1543844327342">
         <mark key="[" line="14" column="37" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/urls.py" timestamp="1545063767523" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/cardnew.html" timestamp="1545385576590">
+        <mark key="[" line="2" column="88" />
+      </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/list1.html" timestamp="1545062880724">
         <mark key="[" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1545034877031">
         <mark key="[" line="185" column="156" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1545213726988">
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1545383835636">
         <mark key="'" line="264" column="31" />
         <mark key="[" line="23" column="37" />
         <mark key="]" line="118" column="16" />
@@ -142,7 +144,7 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/checkout-done.html" timestamp="1543844066621">
         <mark key="[" line="5" column="55" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1545072837393">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1545384409833">
         <mark key="[" line="6" column="30" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1545211440949">
@@ -155,15 +157,14 @@
       <file name="$USER_HOME$/Dev/mysite/addresses/forms.py" timestamp="1544378359458">
         <mark key="[" line="41" column="27" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/teststyle.css" timestamp="1544704198056" />
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1545072148844">
         <mark key="[" line="159" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/accounts/templates/accounts/register.html" timestamp="1543759372921">
         <mark key="[" line="6" column="58" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1545382045682">
-        <mark key="[" line="78" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1545385089125">
+        <mark key="[" line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/testindex.html" timestamp="1544782229126">
         <mark key="[" line="19" column="44" />
@@ -188,6 +189,9 @@
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/base/navbar1.html" timestamp="1543827082505">
         <mark key="[" line="27" column="54" />
+      </file>
+      <file name="$USER_HOME$/Dev/mysite/products/templates/listnew.html" timestamp="1545385334382">
+        <mark key="[" line="24" column="50" />
       </file>
     </filemarks>
     <jumps>
