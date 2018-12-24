@@ -36,7 +36,7 @@
       <file name="$USER_HOME$/Dev/mysite/templates/base/css.html" timestamp="1543742627397">
         <mark key="[" line="6" column="113" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1545663302943" />
+      <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1545676274737" />
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1545072339878">
         <mark key="[" line="29" column="10" />
       </file>
@@ -91,16 +91,17 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/cardnew.html" timestamp="1545639381832">
         <mark key="[" line="3" column="72" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/urls.py" timestamp="1545663327654">
-        <mark key="[" line="5" column="0" />
-      </file>
+      <file name="$USER_HOME$/Dev/mysite/products/urls.py" timestamp="1545676009220" />
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/list1.html" timestamp="1545658022745">
         <mark key="[" line="20" column="13" />
+      </file>
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/testproduct.html" timestamp="1545675572793">
+        <mark key="[" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1545034877031">
         <mark key="[" line="185" column="156" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1545656357177">
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1545676267679">
         <mark key="'" line="264" column="31" />
         <mark key="[" line="23" column="37" />
         <mark key="]" line="118" column="16" />
@@ -135,7 +136,7 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1544602970601">
         <mark key="[" line="38" column="66" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1545663343824">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1545675567253">
         <mark key="'" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-product.html" timestamp="1542272508341">
