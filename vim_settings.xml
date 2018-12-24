@@ -36,10 +36,7 @@
       <file name="$USER_HOME$/Dev/mysite/templates/base/css.html" timestamp="1543742627397">
         <mark key="[" line="6" column="113" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1545659130877">
-        <mark key="'" line="55" column="23" />
-        <mark key="[" line="51" column="33" />
-      </file>
+      <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1545663302943" />
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1545072339878">
         <mark key="[" line="29" column="10" />
       </file>
@@ -94,8 +91,8 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/cardnew.html" timestamp="1545639381832">
         <mark key="[" line="3" column="72" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/urls.py" timestamp="1545658917901">
-        <mark key="[" line="17" column="20" />
+      <file name="$USER_HOME$/Dev/mysite/products/urls.py" timestamp="1545663327654">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/list1.html" timestamp="1545658022745">
         <mark key="[" line="20" column="13" />
@@ -138,7 +135,7 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1544602970601">
         <mark key="[" line="38" column="66" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1545659662080">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1545663343824">
         <mark key="'" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-product.html" timestamp="1542272508341">
@@ -165,6 +162,7 @@
       <file name="$USER_HOME$/Dev/mysite/addresses/forms.py" timestamp="1544378359458">
         <mark key="[" line="41" column="27" />
       </file>
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/teststyle.css" timestamp="1544704198056" />
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1545072148844">
         <mark key="[" line="159" column="0" />
       </file>
