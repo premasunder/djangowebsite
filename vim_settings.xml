@@ -85,8 +85,8 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/internallink.js" timestamp="1544631592367">
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1545659647324">
-        <mark key="[" line="7" column="30" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1545762325308">
+        <mark key="[" line="0" column="46" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/cardnew.html" timestamp="1545639381832">
         <mark key="[" line="3" column="72" />
@@ -107,7 +107,7 @@
         <mark key="]" line="118" column="16" />
         <mark key="." line="118" column="16" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1543766584622">
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1545763082464">
         <mark key="[" line="5" column="51" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/about_page.html" timestamp="1544292459234">
@@ -136,7 +136,7 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1544602970601">
         <mark key="[" line="38" column="66" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1545761121607">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1545763052181">
         <mark key="'" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-product.html" timestamp="1542272508341">
