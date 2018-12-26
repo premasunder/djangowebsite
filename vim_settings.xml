@@ -142,7 +142,7 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1544602970601">
         <mark key="[" line="38" column="66" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1545820891334">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1545823366656">
         <mark key="'" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-product.html" timestamp="1542272508341">
@@ -160,7 +160,7 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/checkout-done.html" timestamp="1543844066621">
         <mark key="[" line="5" column="55" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1545764825175">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1545823395979">
         <mark key="[" line="13" column="7" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1545213796916">
