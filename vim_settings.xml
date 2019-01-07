@@ -92,6 +92,7 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1544602970601">
         <mark key="[" line="38" column="66" />
       </file>
+      <file name="$USER_HOME$/Dev/mysite/products/fixtures/products.json" timestamp="1546884661201" />
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1546865479968">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="12" column="28" />
@@ -105,9 +106,9 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1546863050007">
         <mark key="[" line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1546871213711">
+      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1546884772383">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="1" />
+        <mark key="[" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1545990916734">
         <mark key="[" line="125" column="44" />
