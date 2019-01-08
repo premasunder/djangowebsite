@@ -46,6 +46,11 @@
       <file name="$USER_HOME$/Dev/mysite/templates/base.html" timestamp="1544775809004">
         <mark key="[" line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/Dev/mysite/carts/forms.py" timestamp="1546939664304">
+        <mark key="[" line="46" column="43" />
+        <mark key="]" line="46" column="59" />
+        <mark key="." line="46" column="43" />
+      </file>
       <file name="$USER_HOME$/Dev/mysite/carts/urls.py" timestamp="1545658892347">
         <mark key="[" line="5" column="15" />
       </file>
@@ -71,17 +76,22 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1545034877031">
         <mark key="[" line="185" column="156" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1546005681666">
-        <mark key="'" line="264" column="31" />
-        <mark key="[" line="138" column="46" />
-        <mark key="]" line="118" column="16" />
-        <mark key="." line="118" column="16" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1546939205274">
+        <mark key="'" line="265" column="31" />
+        <mark key="[" line="19" column="84" />
+        <mark key="]" line="119" column="16" />
+        <mark key="." line="119" column="16" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1545763829669">
         <mark key="[" line="5" column="51" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/send-order.html" timestamp="1544378813160">
         <mark key="[" line="11" column="1" />
+      </file>
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-comment.html" timestamp="1546940046878">
+        <mark key="[" line="17" column="89" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/footer1.css" timestamp="1544379178643">
         <mark key="[" line="42" column="0" />
@@ -201,10 +211,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>obj.Children.all</text>
+        <text>What is your favorite fruit?</text>
       </register>
       <register name="-" type="4">
-        <text>obj.Children.all</text>
+        <text>What is your favorite fruit?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcm9tXD4=</text>
