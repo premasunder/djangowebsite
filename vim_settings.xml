@@ -76,9 +76,9 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1545034877031">
         <mark key="[" line="185" column="156" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1547035453562">
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1547041538067">
         <mark key="'" line="264" column="31" />
-        <mark key="[" line="245" column="72" />
+        <mark key="[" line="303" column="70" />
         <mark key="]" line="119" column="16" />
         <mark key="." line="119" column="16" />
       </file>
@@ -119,7 +119,7 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1547026573663">
         <mark key="[" line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1547038755855">
+      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1547041553730">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
