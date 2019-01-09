@@ -103,9 +103,9 @@
         <mark key="[" line="38" column="66" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/fixtures/products.json" timestamp="1546886309004" />
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1547026594403">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1547028228717">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="16" column="21" />
+        <mark key="[" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/base.py" timestamp="1545072155251">
         <mark key="[" line="86" column="0" />
