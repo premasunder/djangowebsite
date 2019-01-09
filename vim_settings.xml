@@ -96,7 +96,8 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/footer1.css" timestamp="1544379178643">
         <mark key="[" line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/settings/production.py" timestamp="1547048440624">
+      <file name="$USER_HOME$/Dev/mysite/mysite/settings/production.py" timestamp="1547049461926">
+        <mark key="'" line="31" column="0" />
         <mark key="[" line="25" column="12" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1544602970601">
@@ -205,6 +206,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" />
       <jump line="55" column="23" filename="$USER_HOME$/Dev/mysite/products/views.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/Dev/mysite/mysite/settings/production.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -214,7 +216,7 @@
         <text>What is your favorite fruit?</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcm9tXD4=</text>
+        <text encoding="base64">XDxFTUFJTF9IT1NUXD4=</text>
       </register>
       <register name="0" type="4">
         <text>rogramming, Teaching, Entrepreneurship</text>
@@ -250,9 +252,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmcm9tXD4=</last-search>
+      <last-search encoding="base64">XDxFTUFJTF9IT1NUXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcm9tXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxFTUFJTF9IT1NUXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -273,6 +275,7 @@
         <entry encoding="base64">XDx0b19saXN0XD4=</entry>
         <entry encoding="base64">XDxNZWRpYVJvb3RTM0JvdG9TdG9yYWdlXD4=</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
+        <entry encoding="base64">XDxFTUFJTF9IT1NUXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
