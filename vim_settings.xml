@@ -60,8 +60,8 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1545766326632">
         <mark key="[" line="0" column="46" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/main.css" timestamp="1547059869324">
-        <mark key="[" line="13" column="13" />
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/main.css" timestamp="1547107744396">
+        <mark key="[" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/cardnew.html" timestamp="1546863263731">
         <mark key="[" line="0" column="1" />
@@ -106,9 +106,9 @@
         <mark key="[" line="38" column="66" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/fixtures/products.json" timestamp="1546886309004" />
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1547058561258">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1547107711976">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="23" column="20" />
+        <mark key="[" line="17" column="52" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/base.py" timestamp="1545072155251">
         <mark key="[" line="86" column="0" />
@@ -119,9 +119,9 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1547026573663">
         <mark key="[" line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1547047140524">
+      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1547108192686">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
+        <mark key="[" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1547024020847">
         <mark key="[" line="109" column="48" />
