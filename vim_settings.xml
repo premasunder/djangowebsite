@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cartnew.html" timestamp="1546863250068">
-        <mark key="[" line="34" column="4" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cartnew.html" timestamp="1547120138554">
+        <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/base/footer.html" timestamp="1544428767402">
         <mark key="[" line="39" column="31" />
@@ -76,9 +76,9 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1545034877031">
         <mark key="[" line="185" column="156" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1547041538067">
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1547120202631">
         <mark key="'" line="264" column="31" />
-        <mark key="[" line="303" column="70" />
+        <mark key="[" line="140" column="5" />
         <mark key="]" line="119" column="16" />
         <mark key="." line="119" column="16" />
       </file>
