@@ -72,11 +72,11 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1545034877031">
         <mark key="[" line="185" column="156" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1547455018873">
-        <mark key="'" line="297" column="31" />
-        <mark key="[" line="139" column="46" />
-        <mark key="]" line="119" column="16" />
-        <mark key="." line="119" column="16" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1547455802301">
+        <mark key="'" line="296" column="31" />
+        <mark key="[" line="231" column="16" />
+        <mark key="]" line="231" column="16" />
+        <mark key="." line="231" column="16" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1545763829669">
         <mark key="[" line="5" column="51" />
@@ -201,10 +201,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>What is your favorite fruit?</text>
+        <text>request.session['cart_items'] = posts.count()</text>
       </register>
       <register name="-" type="4">
-        <text>What is your favorite fruit?</text>
+        <text>request.session['cart_items'] = posts.count()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFTUFJTF9IT1NUXD4=</text>
