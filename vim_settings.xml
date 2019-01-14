@@ -54,7 +54,7 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/internallink.js" timestamp="1544631592367">
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1547394367190">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1547467590514">
         <mark key="[" line="3" column="29" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/main.css" timestamp="1547107744396">
@@ -72,14 +72,14 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1545034877031">
         <mark key="[" line="185" column="156" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1547466583092">
-        <mark key="'" line="298" column="31" />
-        <mark key="[" line="231" column="16" />
-        <mark key="]" line="231" column="16" />
-        <mark key="." line="231" column="16" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1547470098423">
+        <mark key="'" line="299" column="31" />
+        <mark key="[" line="232" column="16" />
+        <mark key="]" line="232" column="16" />
+        <mark key="." line="232" column="16" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1545763829669">
-        <mark key="[" line="5" column="51" />
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1547468717028">
+        <mark key="[" line="4" column="4" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/send-order.html" timestamp="1544378813160">
         <mark key="[" line="11" column="1" />
