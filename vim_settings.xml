@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cartnew.html" timestamp="1547538910919">
-        <mark key="[" line="13" column="48" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cartnew.html" timestamp="1547560494324">
+        <mark key="[" line="13" column="45" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/base/footer.html" timestamp="1544428767402">
         <mark key="[" line="39" column="31" />
@@ -72,11 +72,11 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1545034877031">
         <mark key="[" line="185" column="156" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1547559087131">
-        <mark key="'" line="329" column="31" />
-        <mark key="[" line="258" column="16" />
-        <mark key="]" line="258" column="16" />
-        <mark key="." line="258" column="16" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1547560305614">
+        <mark key="'" line="337" column="31" />
+        <mark key="[" line="266" column="16" />
+        <mark key="]" line="266" column="16" />
+        <mark key="." line="266" column="16" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1547468717028">
         <mark key="[" line="4" column="4" />
