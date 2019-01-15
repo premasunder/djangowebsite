@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cartnew.html" timestamp="1547120138554">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cartnew.html" timestamp="1547538910919">
+        <mark key="[" line="13" column="48" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/base/footer.html" timestamp="1544428767402">
         <mark key="[" line="39" column="31" />
@@ -72,11 +72,11 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1545034877031">
         <mark key="[" line="185" column="156" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1547481527432">
-        <mark key="'" line="282" column="31" />
-        <mark key="[" line="215" column="16" />
-        <mark key="]" line="215" column="16" />
-        <mark key="." line="215" column="16" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1547539901536">
+        <mark key="'" line="283" column="31" />
+        <mark key="[" line="216" column="16" />
+        <mark key="]" line="216" column="16" />
+        <mark key="." line="216" column="16" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1547468717028">
         <mark key="[" line="4" column="4" />
@@ -113,8 +113,8 @@
         <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1547394925421">
-        <mark key="[" line="128" column="46" />
+      <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1547539642325">
+        <mark key="[" line="5" column="44" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/addresses/forms.py" timestamp="1544378359458">
         <mark key="[" line="41" column="27" />
