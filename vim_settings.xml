@@ -72,8 +72,8 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1545034877031">
         <mark key="[" line="185" column="156" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1547649302713">
-        <mark key="'" line="344" column="31" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1547655617472">
+        <mark key="'" line="183" column="111" />
         <mark key="[" line="273" column="16" />
         <mark key="]" line="273" column="16" />
         <mark key="." line="273" column="16" />
@@ -198,6 +198,7 @@
       <jump line="55" column="23" filename="$USER_HOME$/Dev/mysite/products/views.py" />
       <jump line="4" column="0" filename="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" />
       <jump line="31" column="0" filename="$USER_HOME$/Dev/mysite/mysite/settings/production.py" />
+      <jump line="183" column="111" filename="$USER_HOME$/Dev/mysite/carts/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
