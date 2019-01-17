@@ -72,11 +72,11 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1545034877031">
         <mark key="[" line="185" column="156" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1547713854399">
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1547719298638">
         <mark key="'" line="184" column="111" />
-        <mark key="[" line="288" column="16" />
-        <mark key="]" line="288" column="16" />
-        <mark key="." line="288" column="16" />
+        <mark key="[" line="295" column="16" />
+        <mark key="]" line="295" column="16" />
+        <mark key="." line="295" column="16" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1547468717028">
         <mark key="[" line="4" column="4" />
