@@ -30,8 +30,8 @@
       <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1547373764926">
         <mark key="[" line="34" column="37" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1547804421019">
-        <mark key="[" line="22" column="45" />
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1547894304030">
+        <mark key="[" line="22" column="41" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/card1.html" timestamp="1546947723689">
         <mark key="[" line="0" column="31" />
@@ -110,8 +110,8 @@
         <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1547540741217">
-        <mark key="[" line="5" column="44" />
+      <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1547894112089">
+        <mark key="[" line="130" column="61" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/addresses/forms.py" timestamp="1544378359458">
         <mark key="[" line="41" column="27" />
