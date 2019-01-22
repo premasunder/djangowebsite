@@ -39,8 +39,8 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/views.py" timestamp="1544604605103">
         <mark key="[" line="23" column="35" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/admin.py" timestamp="1547835261211">
-        <mark key="[" line="13" column="34" />
+      <file name="$USER_HOME$/Dev/mysite/products/admin.py" timestamp="1548147406858">
+        <mark key="[" line="2" column="79" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/list3.html" timestamp="1544989083791">
         <mark key="[" line="21" column="13" />
@@ -124,8 +124,8 @@
         <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1548145452455">
-        <mark key="[" line="131" column="50" />
+      <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1548147512390">
+        <mark key="[" line="5" column="64" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/addresses/forms.py" timestamp="1544378359458">
         <mark key="[" line="41" column="27" />
@@ -133,8 +133,8 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1547050681529">
         <mark key="[" line="159" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1547837933133">
-        <mark key="[" line="134" column="50" />
+      <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1548147469324">
+        <mark key="[" line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/testindex.html" timestamp="1544782229126">
         <mark key="[" line="19" column="44" />
@@ -145,8 +145,8 @@
       <file name="$USER_HOME$/Dev/mysite/templates/jquery/testindex.html" timestamp="1544604495957">
         <mark key="[" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/forms.py" timestamp="1548076793923">
-        <mark key="[" line="20" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/products/forms.py" timestamp="1548147716756">
+        <mark key="[" line="17" column="23" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/jquery/index.html" timestamp="1544603396329">
         <mark key="[" line="14" column="37" />
