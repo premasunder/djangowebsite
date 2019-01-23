@@ -62,8 +62,8 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1547800792628">
         <mark key="[" line="2" column="73" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/main.css" timestamp="1547107744396">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/main.css" timestamp="1548242734694">
+        <mark key="[" line="13" column="13" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/cardnew.html" timestamp="1546863263731">
         <mark key="[" line="0" column="1" />
@@ -106,9 +106,9 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1544602970601">
         <mark key="[" line="38" column="66" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1548077162644">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1548242800719">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="24" column="168" />
+        <mark key="[" line="15" column="29" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/pizzazutaten.html" timestamp="1548238180446">
         <mark key="[" line="23" column="89" />
@@ -121,10 +121,6 @@
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/list2.html" timestamp="1547026573663">
         <mark key="[" line="13" column="7" />
-      </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1547108974271">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1548238627330">
         <mark key="[" line="101" column="62" />
