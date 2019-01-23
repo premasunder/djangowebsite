@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cartnew.html" timestamp="1548071764935">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cartnew.html" timestamp="1548231049884">
         <mark key="[" line="9" column="56" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/base/footer.html" timestamp="1544428767402">
@@ -77,9 +77,11 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1545034877031">
         <mark key="[" line="185" column="156" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1548146123588">
-        <mark key="'" line="186" column="111" />
-        <mark key="[" line="30" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1548232789370">
+        <mark key="'" line="183" column="111" />
+        <mark key="[" line="156" column="16" />
+        <mark key="]" line="156" column="16" />
+        <mark key="." line="156" column="16" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1547800771428">
         <mark key="[" line="4" column="77" />
@@ -108,8 +110,8 @@
         <mark key="'" line="2" column="0" />
         <mark key="[" line="24" column="168" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/pizzazutaten.html" timestamp="1548077210751">
-        <mark key="[" line="1" column="36" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/pizzazutaten.html" timestamp="1548231901204">
+        <mark key="[" line="31" column="91" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/base.py" timestamp="1545072155251">
         <mark key="[" line="86" column="0" />
@@ -133,7 +135,7 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1547050681529">
         <mark key="[" line="159" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1548147469324">
+      <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1548231084906">
         <mark key="[" line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/testindex.html" timestamp="1544782229126">
@@ -213,10 +215,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>request.session['cart_items'] = posts.count()</text>
+        <text>print(key, val, len(val))</text>
       </register>
       <register name="-" type="4">
-        <text>request.session['cart_items'] = posts.count()</text>
+        <text>print(key, val, len(val))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFTUFJTF9IT1NUXD4=</text>
