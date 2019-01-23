@@ -77,11 +77,11 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1545034877031">
         <mark key="[" line="185" column="156" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1548232789370">
-        <mark key="'" line="183" column="111" />
-        <mark key="[" line="156" column="16" />
-        <mark key="]" line="156" column="16" />
-        <mark key="." line="156" column="16" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1548234478492">
+        <mark key="'" line="185" column="111" />
+        <mark key="[" line="158" column="16" />
+        <mark key="]" line="158" column="16" />
+        <mark key="." line="158" column="16" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1547800771428">
         <mark key="[" line="4" column="77" />
@@ -110,7 +110,7 @@
         <mark key="'" line="2" column="0" />
         <mark key="[" line="24" column="168" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/pizzazutaten.html" timestamp="1548231901204">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/pizzazutaten.html" timestamp="1548234565206">
         <mark key="[" line="31" column="91" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/base.py" timestamp="1545072155251">
