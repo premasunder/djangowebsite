@@ -24,11 +24,11 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1545034877031">
         <mark key="[" line="185" column="156" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1549532388429">
-        <mark key="'" line="188" column="111" />
-        <mark key="[" line="337" column="58" />
-        <mark key="]" line="161" column="16" />
-        <mark key="." line="161" column="16" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1549717907505">
+        <mark key="'" line="200" column="111" />
+        <mark key="[" line="348" column="58" />
+        <mark key="]" line="162" column="16" />
+        <mark key="." line="162" column="16" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/list4.html" timestamp="1545382865774">
         <mark key="[" line="5" column="7" />
@@ -63,8 +63,8 @@
       <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1548516540646">
         <mark key="[" line="41" column="52" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1549528931933">
-        <mark key="[" line="26" column="43" />
+      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/home.html" timestamp="1549717304067">
+        <mark key="[" line="25" column="127" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1544602970601">
         <mark key="[" line="38" column="66" />
@@ -139,8 +139,8 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/internallink.js" timestamp="1544631592367">
         <mark key="[" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1547800792628">
-        <mark key="[" line="2" column="73" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1549717365414">
+        <mark key="[" line="1" column="76" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/css/main.css" timestamp="1548422602130">
         <mark key="[" line="14" column="14" />
