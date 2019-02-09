@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cartnew.html" timestamp="1548664277274">
-        <mark key="[" line="8" column="30" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cartnew.html" timestamp="1549721026473">
+        <mark key="[" line="9" column="53" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/base/footer.html" timestamp="1544428767402">
         <mark key="[" line="39" column="31" />
@@ -24,11 +24,11 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1545034877031">
         <mark key="[" line="185" column="156" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1549717907505">
-        <mark key="'" line="200" column="111" />
-        <mark key="[" line="348" column="58" />
-        <mark key="]" line="162" column="16" />
-        <mark key="." line="162" column="16" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1549721242717">
+        <mark key="'" line="201" column="111" />
+        <mark key="[" line="349" column="58" />
+        <mark key="]" line="163" column="16" />
+        <mark key="." line="163" column="16" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/list4.html" timestamp="1545382865774">
         <mark key="[" line="5" column="7" />
@@ -69,9 +69,9 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1544602970601">
         <mark key="[" line="38" column="66" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1548664301363">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1549721434663">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="15" column="29" />
+        <mark key="[" line="31" column="51" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/pizzazutaten.html" timestamp="1549719121482">
         <mark key="[" line="21" column="49" />
