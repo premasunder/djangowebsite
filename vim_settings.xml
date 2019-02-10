@@ -12,8 +12,8 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/list1.html" timestamp="1545658022745">
         <mark key="[" line="20" column="13" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/testproduct.html" timestamp="1548329762181">
-        <mark key="[" line="4" column="16" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/testproduct.html" timestamp="1549810049396">
+        <mark key="[" line="41" column="25" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/aws/conf.py" timestamp="1544554645126">
         <mark key="[" line="15" column="31" />
@@ -24,9 +24,8 @@
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.js" timestamp="1545034877031">
         <mark key="[" line="185" column="156" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1549797478913">
-        <mark key="'" line="201" column="111" />
-        <mark key="[" line="349" column="58" />
+      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1549810142853">
+        <mark key="[" line="314" column="58" />
         <mark key="]" line="163" column="16" />
         <mark key="." line="163" column="16" />
       </file>
