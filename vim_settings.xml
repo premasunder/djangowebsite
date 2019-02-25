@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cartnew.html" timestamp="1551019818584">
-        <mark key="[" line="9" column="53" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cartnew.html" timestamp="1551085008211">
+        <mark key="[" line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/templates/base/footer.html" timestamp="1544428767402">
-        <mark key="[" line="39" column="31" />
+      <file name="$USER_HOME$/Dev/mysite/templates/base/footer.html" timestamp="1551085388920">
+        <mark key="[" line="40" column="59" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/list1.html" timestamp="1545658022745">
         <mark key="[" line="20" column="13" />
@@ -42,6 +42,9 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/checkout.html" timestamp="1550478023428">
         <mark key="[" line="45" column="97" />
       </file>
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/detail.html" timestamp="1551085286190">
+        <mark key="[" line="15" column="91" />
+      </file>
       <file name="$USER_HOME$/Dev/mysite-new/mysite/settings/__init__.py" timestamp="1548421794544">
         <mark key="[" line="4" column="0" />
       </file>
@@ -66,7 +69,7 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1544602970601">
         <mark key="[" line="38" column="66" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1550489219140">
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/listnew.html" timestamp="1551085154123">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="38" column="12" />
       </file>
