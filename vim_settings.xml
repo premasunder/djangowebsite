@@ -43,7 +43,7 @@
         <mark key="[" line="21" column="59" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/models.py" timestamp="1551720412485">
-        <mark key="[" line="38" column="80" />
+        <mark key="[" line="42" column="80" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/card1.html" timestamp="1548064204814">
         <mark key="[" line="2" column="118" />
@@ -101,10 +101,12 @@
         <mark key="]" line="165" column="16" />
         <mark key="." line="165" column="16" />
       </file>
+      <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/utils.py" timestamp="1551725793750">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1549529017529">
         <mark key="[" line="4" column="86" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/send-order.html" timestamp="1550478063409" />
       <file name="$USER_HOME$/Dev/mysite/static_my_proj/js/ecommerce.main.js" timestamp="1547039006319">
         <mark key="[" line="2" column="1" />
       </file>
@@ -121,18 +123,23 @@
         <mark key="'" line="2" column="0" />
         <mark key="[" line="38" column="12" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/templates/addapartments/list.html" timestamp="1551706226837" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/templates/addapartments/list.html" timestamp="1551727139324">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/templates/addapartments/detail.html" timestamp="1551723221393">
         <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/pizzazutaten.html" timestamp="1550489688018">
         <mark key="[" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/admin.py" timestamp="1551721450894">
-        <mark key="[" line="3" column="27" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/admin.py" timestamp="1551724701488">
+        <mark key="[" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/base.py" timestamp="1548420688356">
         <mark key="[" line="124" column="46" />
+      </file>
+      <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/urls.py" timestamp="1551726862353">
+        <mark key="[" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/base/navbar.html" timestamp="1550479166808">
         <mark key="[" line="64" column="0" />
@@ -161,14 +168,16 @@
       <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1551022981984">
         <mark key="[" line="205" column="0" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/views.py" timestamp="1551723473617">
-        <mark key="[" line="20" column="46" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/views.py" timestamp="1551725349885">
+        <mark key="[" line="30" column="46" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/testindex.html" timestamp="1544782229126">
         <mark key="[" line="19" column="44" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/apartment/urls.py" timestamp="1551705373489">
-        <mark key="[" line="29" column="16" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/apartment/urls.py" timestamp="1551726645253">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/home_page.html" timestamp="1547108789434">
         <mark key="[" line="14" column="49" />
@@ -245,7 +254,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>print(key, val, len(val))</text>
+        <text encoding="base64">ICAgIHVybChyJ15hcGFydG1lbnRzLWxpc3QvJCcsIEFwYXJ0bWVudExpc3RWaWV3LmFzX3ZpZXcoKSksCiAgICAjdXJsKHInXmFwYXJ0bWVudHMvKD9QPHBrPlxkKykvJCcsIEFwYXJ0bWVudERldGFpbFZpZXcuYXNfdmlldygpKSwKICAgIHVybChyJ15hcGFydG1lbnRzLyg/UDxzbHVnPltcdy1dKykvJCcsIEFwYXJ0bWVudERldGFpbFNsdWdWaWV3LmFzX3ZpZXcoKSks</text>
       </register>
       <register name="-" type="4">
         <text>print(key, val, len(val))</text>
@@ -256,34 +265,34 @@
       <register name="0" type="4">
         <text>rogramming, Teaching, Entrepreneurship</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">VmVydHJldGVuIGR1cmNoOiBKb2VybiBHcmltbWVyIHVuZCDigKhLYXJzdGVuIEdyw7xuYmVyZ+KAqOKAqAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHVybChyJ15hcGFydG1lbnRzLWxpc3QvJCcsIEFwYXJ0bWVudExpc3RWaWV3LmFzX3ZpZXcoKSksCiAgICAjdXJsKHInXmFwYXJ0bWVudHMvKD9QPHBrPlxkKykvJCcsIEFwYXJ0bWVudERldGFpbFZpZXcuYXNfdmlldygpKSwKICAgIHVybChyJ15hcGFydG1lbnRzLyg/UDxzbHVnPltcdy1dKykvJCcsIEFwYXJ0bWVudERldGFpbFNsdWdWaWV3LmFzX3ZpZXcoKSks</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlcy5pbmZvKHJlcXVlc3QsICdQb3N0bGVpdHphaGwgZWluZ2ViZW4gdW5kIExpZWZlcmdlYmlldCBwcsO8ZmVuLicpCg==</text>
+        <text encoding="base64">VmVydHJldGVuIGR1cmNoOiBKb2VybiBHcmltbWVyIHVuZCDigKhLYXJzdGVuIEdyw7xuYmVyZ+KAqOKAqAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlcy5pbmZvKHJlcXVlc3QsICdQb3N0bGVpdHphaGwgZWluZ2ViZW4gdW5kIExpZWZlcmdlYmlldCBwcsO8ZmVuLicpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0nc3VibWl0JyBpZD0ic3VibWl0QnV0dG9uIiBjbGFzcz0nYnRuIGJ0bi1zdWNjZXNzIGJ0bi1zbScgPkVudGVyIFBvc3RhbGNvZGU8L2J1dHRvbj4K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">c2F1Y2UgfQogICAgICAgIHZhciBoaWRkZW5DYXJ0SXRlbVJlbW92ZUZvcm0gPSAkKCIuY2FydC1pdGVtLXJlbW92ZS1mb3JtIikKICAgICAgICBpZiAoZGF0YS5wcm9kdWN0cy5sZW5ndGggPiAwKXsKICAgICAgICAgICAgcHJvZHVjdFJvd3MuaHRtbCgiICIpCiAgICAgICAgICAgIGkgPSBkYXRhLnByb2R1Y3RzLmxlbmd0aAoKICAgICAgICAgICAgJC5lYWNoKGRhdGEucHJvZHVjdHMsIGZ1bmN0aW9uKGluZGV4LCB2YWx1ZSl7CiAgICAgICAgICAgICAgdmFyIG5ld0NhcnRJdGVtUmVtb3ZlID0gaGlkZGVuQ2FydEl0ZW1SZW1vdmVGb3JtLmNsb25lKCkKICAgICAgICAgICAgICBuZXdDYXJ0SXRlbVJlbW92ZS5jc3MoImRpc3BsYXkiLCAiYmxvY2siKQogICAgICAgICAgICAgIG5ld0NhcnRJdGVtUmVtb3ZlLmZpbmQoIi5jYXJ0LWl0ZW0tcHJvZHVjdC1pZCIpLnZhbCh2YWx1ZS5pZCkKICAgICAgICAgICAgICBjb25zb2xlLmxvZyhuZXdDYXJ0SXRlbVJlbW92ZS50</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>f sauce_id is not None:
                 cart_obj.sauce.clear()
                 sauce_obj = Sauce.objects.get(id=sauce_id)</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBmb3IgdGVzdCBpbiBQcm9kdWN0LlNhdWNlLmFsbCAlfQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIDwvZGl2Pjxici8+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PGgyPlRoaXMgaXMgcHJvZHVjdCBsaXN0IHBhZ2U8L2gyPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhdGVnb3J5ID0gZ2V0X29iamVjdF9vcl80MDQoQ2F0ZWdvcnksIHNsdWc9c2x1KQo=</text>
+        <text encoding="base64">PGgyPlRoaXMgaXMgcHJvZHVjdCBsaXN0IHBhZ2U8L2gyPgo=</text>
       </register>
     </registers>
     <search>
