@@ -6,11 +6,17 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cartnew.html" timestamp="1551085008211">
         <mark key="[" line="19" column="21" />
       </file>
+      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/base/footer.html" timestamp="1552165067092">
+        <mark key="[" line="10" column="16" />
+      </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/templates/contact/view.html" timestamp="1551774069149">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/enquiries/models.py" timestamp="1552155275254">
         <mark key="[" line="3" column="49" />
+      </file>
+      <file name="$USER_HOME$/DevApartment/Apartment/src/static_my_proj/css/footer.css" timestamp="1552164842451">
+        <mark key="[" line="1" column="28" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/enquiries/views.py" timestamp="1552152485372">
         <mark key="[" line="19" column="22" />
@@ -54,8 +60,7 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/apartment/views.py" timestamp="1551777510814">
         <mark key="[" line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/forms.py" timestamp="1552151407122" />
-      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/home_page.html" timestamp="1552163430280" />
+      <file name="$USER_HOME$/Dev/mysite/templates/base.html" timestamp="1552164056862" />
       <file name="$USER_HOME$/Dev/mysite/carts/urls.py" timestamp="1552149257103">
         <mark key="[" line="5" column="15" />
       </file>
@@ -68,7 +73,6 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/enquiries/templates/enquiries/snippets/enquiry-autoresponse.html" timestamp="1552152749205">
         <mark key="[" line="5" column="67" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/addresses/admin.py" timestamp="1551957157065" />
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/testproduct.html" timestamp="1549810049396">
         <mark key="[" line="41" column="25" />
       </file>
@@ -89,11 +93,9 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1549529017529">
         <mark key="[" line="4" column="86" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/send-order.html" timestamp="1550478063409" />
-      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/base/css.html" timestamp="1551805490434">
-        <mark key="[" line="3" column="57" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/base/css.html" timestamp="1552164135499">
+        <mark key="[" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/add-comment.html" timestamp="1552148304163" />
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/production.py" timestamp="1551901302697">
         <mark key="[" line="54" column="17" />
       </file>
@@ -124,14 +126,12 @@
       <file name="$USER_HOME$/Dev/mysite/templates/base/navbar.html" timestamp="1550479166808">
         <mark key="[" line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/base/navbar.html" timestamp="1552158158747">
-        <mark key="[" line="16" column="76" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/base/navbar.html" timestamp="1552164630184">
+        <mark key="[" line="1" column="46" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/admin.py" timestamp="1548517371097">
         <mark key="[" line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/checkout-done.html" timestamp="1552152707934" />
-      <file name="$USER_HOME$/Dev/mysite/addresses/views.py" timestamp="1552152270358" />
       <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1552155017635">
         <mark key="[" line="130" column="49" />
       </file>
