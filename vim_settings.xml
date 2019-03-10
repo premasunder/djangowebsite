@@ -42,11 +42,14 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/models.py" timestamp="1551956250973">
         <mark key="[" line="50" column="48" />
       </file>
+      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/about.html" timestamp="1552216272987">
+        <mark key="[" line="17" column="29" />
+      </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/enquiries/urls.py" timestamp="1552150003773">
         <mark key="[" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/static_my_proj/css/main.css" timestamp="1552163140589">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/static_my_proj/css/main.css" timestamp="1552214808319">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/enquiries/admin.py" timestamp="1552158624614">
         <mark key="[" line="2" column="26" />
@@ -61,11 +64,14 @@
         <mark key="[" line="9" column="38" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/base.html" timestamp="1552164056862" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/home_page.html" timestamp="1552215389085">
+        <mark key="[" line="58" column="17" />
+      </file>
       <file name="$USER_HOME$/Dev/mysite/carts/urls.py" timestamp="1552149257103">
         <mark key="[" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/enquiries/templates/enquiries/home.html" timestamp="1552150347960">
-        <mark key="[" line="3" column="11" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/enquiries/templates/enquiries/home.html" timestamp="1552216348126">
+        <mark key="[" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1549717365414">
         <mark key="[" line="1" column="76" />
@@ -76,14 +82,7 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/testproduct.html" timestamp="1549810049396">
         <mark key="[" line="41" column="25" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/location.html" timestamp="1551777589722">
-        <mark key="[" line="6" column="35" />
-      </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1552152633026">
-        <mark key="[" line="565" column="22" />
-        <mark key="]" line="565" column="51" />
-        <mark key="." line="565" column="51" />
-      </file>
+      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/location.html" timestamp="1552215800668" />
       <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/utils.py" timestamp="1551725793750">
         <mark key="[" line="0" column="0" />
       </file>
@@ -93,7 +92,7 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/remove-product.html" timestamp="1549529017529">
         <mark key="[" line="4" column="86" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/base/css.html" timestamp="1552164135499">
+      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/base/css.html" timestamp="1552214924896">
         <mark key="[" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/production.py" timestamp="1551901302697">
@@ -146,11 +145,6 @@
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/views.py" timestamp="1551725349885">
         <mark key="[" line="30" column="46" />
-      </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/apartment/urls.py" timestamp="1552149012508">
-        <mark key="[" line="30" column="55" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/reservations/admin.py" timestamp="1552158789784">
         <mark key="[" line="2" column="27" />
