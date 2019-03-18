@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cartnew.html" timestamp="1552836873232">
-        <mark key="[" line="18" column="20" />
+      <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cartnew.html" timestamp="1552917912547">
+        <mark key="[" line="19" column="20" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/templates/base/footer.html" timestamp="1552323237959">
         <mark key="[" line="16" column="5" />
@@ -60,8 +60,8 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/enquiries/admin.py" timestamp="1552751373730">
         <mark key="[" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/admin.py" timestamp="1552307028097">
-        <mark key="[" line="29" column="39" />
+      <file name="$USER_HOME$/Dev/mysite/products/admin.py" timestamp="1552916831203">
+        <mark key="[" line="2" column="89" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/apartment/forms.py" timestamp="1551956577215">
         <mark key="[" line="5" column="48" />
@@ -177,8 +177,8 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1551889895825">
         <mark key="[" line="57" column="14" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1552154608825">
-        <mark key="[" line="205" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/products/models.py" timestamp="1552917892925">
+        <mark key="[" line="203" column="0" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/views.py" timestamp="1551725349885">
         <mark key="[" line="30" column="46" />
