@@ -57,6 +57,9 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/static_my_proj/js/app/blog-list/blog-list.module.js" timestamp="1552644130683">
         <mark key="[" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/Dev/mysite/mysite/views.py" timestamp="1553016508504">
+        <mark key="[" line="17" column="52" />
+      </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/enquiries/admin.py" timestamp="1552751373730">
         <mark key="[" line="2" column="26" />
       </file>
@@ -123,8 +126,8 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/production.py" timestamp="1551901302697">
         <mark key="[" line="54" column="17" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1552148995260">
-        <mark key="[" line="38" column="66" />
+      <file name="$USER_HOME$/Dev/mysite/mysite/urls.py" timestamp="1553016444373">
+        <mark key="[" line="42" column="53" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/reservations/views.py" timestamp="1552295272285">
         <mark key="[" line="10" column="29" />
@@ -173,6 +176,9 @@
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/reservations/templates/reservations/snippets/shortstay-autoresponse.html" timestamp="1552751265755">
         <mark key="[" line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/Dev/mysite/templates/pizza-bestellen-nürnberg.html" timestamp="1553016397436">
+        <mark key="[" line="12" column="13" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1551889895825">
         <mark key="[" line="57" column="14" />
