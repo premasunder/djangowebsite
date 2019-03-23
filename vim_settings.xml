@@ -92,12 +92,12 @@
         <mark key="[" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/base.html" timestamp="1552313506791" />
-      <file name="$USER_HOME$/DevApartment/Apartment/src/apartment/settings/production.py" timestamp="1553241225928">
+      <file name="$USER_HOME$/DevApartment/Apartment/src/apartment/settings/production.py" timestamp="1553351802566">
         <mark key="[" line="38" column="32" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/templates/angularindex.html" timestamp="1552646816085" />
-      <file name="$USER_HOME$/DevApartment/Apartment/src/reservations/templates/reservations/home.html" timestamp="1552749109699">
-        <mark key="[" line="13" column="58" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/reservations/templates/reservations/home.html" timestamp="1553351330700">
+        <mark key="[" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/.gitignore" timestamp="1553156810000">
         <mark key="[" line="110" column="5" />
@@ -108,8 +108,8 @@
       <file name="$USER_HOME$/Dev/mysite/carts/urls.py" timestamp="1552149257103">
         <mark key="[" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/enquiries/templates/enquiries/home.html" timestamp="1552323078947">
-        <mark key="[" line="5" column="35" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/enquiries/templates/enquiries/home.html" timestamp="1553351255703">
+        <mark key="[" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cart.html" timestamp="1549717365414">
         <mark key="[" line="1" column="76" />
@@ -123,8 +123,8 @@
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/testproduct.html" timestamp="1549810049396">
         <mark key="[" line="41" column="25" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/location.html" timestamp="1552748774832">
-        <mark key="[" line="57" column="20" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/location.html" timestamp="1553351220409">
+        <mark key="[" line="7" column="27" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1553005696658">
         <mark key="[" line="448" column="52" />
@@ -163,8 +163,8 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/templates/addapartments/list.html" timestamp="1551778131137">
         <mark key="[" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/templates/addapartments/detail.html" timestamp="1552750933213">
-        <mark key="[" line="40" column="48" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/templates/addapartments/detail.html" timestamp="1553351360606">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/enquiries/templates/enquiries/snippets/send-enquiry.html" timestamp="1552152713244">
         <mark key="[" line="4" column="82" />
