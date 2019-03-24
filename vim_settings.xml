@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dev/mysite/templates/impressum.html" timestamp="1553431558913">
+        <mark key="[" line="14" column="58" />
+      </file>
       <file name="$USER_HOME$/Dev/mysite/products/templates/products/snippets/update-cartnew.html" timestamp="1552917912547">
         <mark key="[" line="19" column="20" />
       </file>
@@ -126,6 +129,9 @@
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/templates/location.html" timestamp="1553351220409">
         <mark key="[" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/impressum.html" timestamp="1553431272809">
+        <mark key="[" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/views.py" timestamp="1553005696658">
         <mark key="[" line="448" column="52" />
