@@ -99,8 +99,10 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/.gitignore" timestamp="1553156810000">
         <mark key="[" line="110" column="5" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/home_page.html" timestamp="1556868322040">
-        <mark key="[" line="17" column="50" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/home_page.html" timestamp="1556904412443">
+        <mark key="[" line="19" column="56" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/urls.py" timestamp="1552149257103">
         <mark key="[" line="5" column="15" />
@@ -309,8 +311,8 @@
       <jump line="20" column="20" filename="$USER_HOME$/DevApartment/Apartment/src/addapartments/templates/addapartments/detail.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHVybChyJ15hcGFydG1lbnRzLWxpc3QvJCcsIEFwYXJ0bWVudExpc3RWaWV3LmFzX3ZpZXcoKSksCiAgICAjdXJsKHInXmFwYXJ0bWVudHMvKD9QPHBrPlxkKykvJCcsIEFwYXJ0bWVudERldGFpbFZpZXcuYXNfdmlldygpKSwKICAgIHVybChyJ15hcGFydG1lbnRzLyg/UDxzbHVnPltcdy1dKykvJCcsIEFwYXJ0bWVudERldGFpbFNsdWdWaWV3LmFzX3ZpZXcoKSks</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxoNT5GaXJzdCBzbGlkZSBsYWJlbDwvaDU+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>print(key, val, len(val))</text>
@@ -321,34 +323,34 @@
       <register name="0" type="4">
         <text>rogramming, Teaching, Entrepreneurship</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxoNT5GaXJzdCBzbGlkZSBsYWJlbDwvaDU+Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgIHVybChyJ15hcGFydG1lbnRzLWxpc3QvJCcsIEFwYXJ0bWVudExpc3RWaWV3LmFzX3ZpZXcoKSksCiAgICAjdXJsKHInXmFwYXJ0bWVudHMvKD9QPHBrPlxkKykvJCcsIEFwYXJ0bWVudERldGFpbFZpZXcuYXNfdmlldygpKSwKICAgIHVybChyJ15hcGFydG1lbnRzLyg/UDxzbHVnPltcdy1dKykvJCcsIEFwYXJ0bWVudERldGFpbFNsdWdWaWV3LmFzX3ZpZXcoKSks</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">VmVydHJldGVuIGR1cmNoOiBKb2VybiBHcmltbWVyIHVuZCDigKhLYXJzdGVuIEdyw7xuYmVyZ+KAqOKAqAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBtZXNzYWdlcy5pbmZvKHJlcXVlc3QsICdQb3N0bGVpdHphaGwgZWluZ2ViZW4gdW5kIExpZWZlcmdlYmlldCBwcsO8ZmVuLicpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0nc3VibWl0JyBpZD0ic3VibWl0QnV0dG9uIiBjbGFzcz0nYnRuIGJ0bi1zdWNjZXNzIGJ0bi1zbScgPkVudGVyIFBvc3RhbGNvZGU8L2J1dHRvbj4K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">c2F1Y2UgfQogICAgICAgIHZhciBoaWRkZW5DYXJ0SXRlbVJlbW92ZUZvcm0gPSAkKCIuY2FydC1pdGVtLXJlbW92ZS1mb3JtIikKICAgICAgICBpZiAoZGF0YS5wcm9kdWN0cy5sZW5ndGggPiAwKXsKICAgICAgICAgICAgcHJvZHVjdFJvd3MuaHRtbCgiICIpCiAgICAgICAgICAgIGkgPSBkYXRhLnByb2R1Y3RzLmxlbmd0aAoKICAgICAgICAgICAgJC5lYWNoKGRhdGEucHJvZHVjdHMsIGZ1bmN0aW9uKGluZGV4LCB2YWx1ZSl7CiAgICAgICAgICAgICAgdmFyIG5ld0NhcnRJdGVtUmVtb3ZlID0gaGlkZGVuQ2FydEl0ZW1SZW1vdmVGb3JtLmNsb25lKCkKICAgICAgICAgICAgICBuZXdDYXJ0SXRlbVJlbW92ZS5jc3MoImRpc3BsYXkiLCAiYmxvY2siKQogICAgICAgICAgICAgIG5ld0NhcnRJdGVtUmVtb3ZlLmZpbmQoIi5jYXJ0LWl0ZW0tcHJvZHVjdC1pZCIpLnZhbCh2YWx1ZS5pZCkKICAgICAgICAgICAgICBjb25zb2xlLmxvZyhuZXdDYXJ0SXRlbVJlbW92ZS50</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>f sauce_id is not None:
                 cart_obj.sauce.clear()
                 sauce_obj = Sauce.objects.get(id=sauce_id)</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBmb3IgdGVzdCBpbiBQcm9kdWN0LlNhdWNlLmFsbCAlfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pjxici8+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PGgyPlRoaXMgaXMgcHJvZHVjdCBsaXN0IHBhZ2U8L2gyPgo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pjxici8+Cg==</text>
       </register>
     </registers>
     <search>
