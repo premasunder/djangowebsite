@@ -99,10 +99,10 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/.gitignore" timestamp="1553156810000">
         <mark key="[" line="110" column="5" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/home_page.html" timestamp="1556963689061">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/home_page.html" timestamp="1557215428391">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/carts/urls.py" timestamp="1552149257103">
         <mark key="[" line="5" column="15" />
@@ -200,8 +200,8 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1553018715047">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/apartment/settings/__init__.py" timestamp="1556963802663">
-        <mark key="[" line="4" column="19" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/apartment/settings/__init__.py" timestamp="1557215530299">
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/apartment/aws/utils.py" timestamp="1553241485354">
         <mark key="[" line="3" column="66" />
