@@ -93,14 +93,14 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/apartment/settings/production.py" timestamp="1553354544254">
         <mark key="[" line="22" column="1" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/reservations/templates/reservations/home.html" timestamp="1553351330700">
-        <mark key="[" line="5" column="27" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/reservations/templates/reservations/home.html" timestamp="1558368199902">
+        <mark key="[" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/.gitignore" timestamp="1553156810000">
         <mark key="[" line="110" column="5" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/home_page.html" timestamp="1557215428391">
-        <mark key="[" line="14" column="0" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/home_page.html" timestamp="1558368594490">
+        <mark key="[" line="88" column="86" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
@@ -164,8 +164,8 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/templates/addapartments/list.html" timestamp="1551778131137">
         <mark key="[" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/templates/addapartments/detail.html" timestamp="1556963526647">
-        <mark key="[" line="60" column="113" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/templates/addapartments/detail.html" timestamp="1558368049148">
+        <mark key="[" line="16" column="62" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/enquiries/templates/enquiries/snippets/send-enquiry.html" timestamp="1552152713244">
         <mark key="[" line="4" column="82" />
