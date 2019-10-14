@@ -99,7 +99,8 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/.gitignore" timestamp="1553156810000">
         <mark key="[" line="110" column="5" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/home_page.html" timestamp="1571043105644">
+      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/home_page.html" timestamp="1571043712198">
+        <mark key="[" line="26" column="27" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
@@ -163,6 +164,7 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/templates/addapartments/list.html" timestamp="1551778131137">
         <mark key="[" line="7" column="27" />
       </file>
+      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/base/js.html" timestamp="1571043647166" />
       <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/templates/addapartments/detail.html" timestamp="1558368049148">
         <mark key="[" line="16" column="62" />
       </file>
@@ -199,8 +201,8 @@
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1553018715047">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/apartment/settings/__init__.py" timestamp="1558369240257">
-        <mark key="[" line="4" column="19" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/apartment/settings/__init__.py" timestamp="1571043931460">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/apartment/aws/utils.py" timestamp="1553241485354">
         <mark key="[" line="3" column="66" />
