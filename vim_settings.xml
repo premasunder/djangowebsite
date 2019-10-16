@@ -48,6 +48,9 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/reservations/models.py" timestamp="1552751429887">
         <mark key="[" line="24" column="28" />
       </file>
+      <file name="$USER_HOME$/Dev/mysite/templates/base/css.html" timestamp="1571221811191">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/mysite/products/views.py" timestamp="1550415075881">
         <mark key="[" line="61" column="39" />
       </file>
@@ -146,7 +149,7 @@
       <file name="$USER_HOME$/Dev/mysite/carts/templates/carts/snippets/send-order.html" timestamp="1553018636022">
         <mark key="[" line="4" column="93" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/base/css.html" timestamp="1552214924896">
+      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/base/css.html" timestamp="1571221791022">
         <mark key="[" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/reservations/forms.py" timestamp="1552330519086">
@@ -164,7 +167,7 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/templates/addapartments/list.html" timestamp="1551778131137">
         <mark key="[" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/base/js.html" timestamp="1571043647166" />
+      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/base/js.html" timestamp="1571221886833" />
       <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/templates/addapartments/detail.html" timestamp="1558368049148">
         <mark key="[" line="16" column="62" />
       </file>
@@ -221,6 +224,9 @@
       </file>
       <file name="$USER_HOME$/Dev/mysite/templates/pizza-bestellen-nürnberg.html" timestamp="1553017746925">
         <mark key="[" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/mysite/templates/base/js.html" timestamp="1571221928410">
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/mysite/mysite/settings/local.py" timestamp="1551889895825">
         <mark key="[" line="57" column="14" />
