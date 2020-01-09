@@ -12,8 +12,8 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/templates/base/footer.html" timestamp="1553432608847">
         <mark key="[" line="13" column="69" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/templates/base/footer.html" timestamp="1553018126495">
-        <mark key="[" line="39" column="13" />
+      <file name="$USER_HOME$/Dev/mysite/templates/base/footer.html" timestamp="1578580812096">
+        <mark key="[" line="21" column="38" />
       </file>
       <file name="/a.dummy" timestamp="1553155415075">
         <mark key="[" line="0" column="0" />
@@ -167,7 +167,6 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/templates/addapartments/list.html" timestamp="1551778131137">
         <mark key="[" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/DevApartment/Apartment/src/templates/base/js.html" timestamp="1571221886833" />
       <file name="$USER_HOME$/DevApartment/Apartment/src/addapartments/templates/addapartments/detail.html" timestamp="1558368049148">
         <mark key="[" line="16" column="62" />
       </file>
@@ -201,8 +200,8 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/templates/base.html" timestamp="1553418763636">
         <mark key="[" line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1571903130756">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/Dev/mysite/mysite/settings/__init__.py" timestamp="1578581224872">
+        <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/apartment/settings/__init__.py" timestamp="1571043931460">
         <mark key="[" line="2" column="0" />
@@ -210,8 +209,8 @@
       <file name="$USER_HOME$/DevApartment/Apartment/src/apartment/aws/utils.py" timestamp="1553241485354">
         <mark key="[" line="3" column="66" />
       </file>
-      <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1552984289311">
-        <mark key="[" line="102" column="59" />
+      <file name="$USER_HOME$/Dev/mysite/carts/models.py" timestamp="1578580996400">
+        <mark key="[" line="9" column="22" />
       </file>
       <file name="$USER_HOME$/DevApartment/Apartment/src/Procfile" timestamp="1553189141861">
         <mark key="[" line="0" column="49" />
